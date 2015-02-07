@@ -121,7 +121,6 @@ public class WebCrawler {
 	    accordingly to save the contents into the files.
 	    
 	    @param      String		The url to download the html
-	    			int			To append to the file name to determine num of files
 	    @return     NONE        
 	    ========================================================================== */
     private static void DownloadingLinks(String url, int count) {

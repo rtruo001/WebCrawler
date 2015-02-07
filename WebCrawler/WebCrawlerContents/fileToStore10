@@ -1,0 +1,651 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head> 
+  <!-- (c) 2012 Copyright - All Rights Reserved - California State University, Long Beach.
+This template has been developed and it is maintained by University Public Affairs & Publications. 
+Use of this template is allowed with permission and agreement on its integrity. If you need assistance or
+need additional information, please visit http://www.csulb.edu/style/ --> 
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+  <meta name="Description" content="CSULB is a large, urban, comprehensive university in the 23-campus California State University system." /> 
+  <meta name="Keywords" content="College, University, Long Beach, Long Beach State, 49ers, Dirtbags, Cal State, CSU, CSULB, Alexander, California" /> 
+  <title>California State University, Long Beach</title> 
+  <meta name="language" content="en" /> 
+  <!-- File copied to root on 14jan13 by jhurtado.  --> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-193316-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+  <script type="text/javascript">
+// Added config.html, contains config parameters for suggest in search, Pritesh Shah 04/27/2007
+// If you wish to turn off the suggestion feature for the search box, set suggest_in_search = false; 
+var suggest_in_search = true;
+var xmlpath = '/xml/keywords.xml';
+</script> 
+  <script type="text/javascript" src="/js/final_ac.js"></script> 
+  <!-- For Audience Page Search Box Autosuggest --> 
+  <script type="text/javascript" src="/js/bsn.AutoSuggest_2.1.3.js"></script> 
+  <!-- For Audience Page Search Box Autosuggest --> 
+  <!-- For Audience Page Search Box: Show/Hide Search Results --> 
+  <script type="text/javascript" src="/js/jquery.min.js"></script> 
+  <!-- Home Rotation --> 
+  <script type="text/javascript" src="/js/jquery.cycle.lite.js"></script> 
+  <script type="text/javascript">
+$(document).ready(function() {
+	$('#banner_content').cycle({
+		fx: 'fade',
+		/*random: 1,*/
+		timeout: 10000 // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+});
+</script> 
+  <!-- For Audience Page Search Box: Show/Hide Search Results --> 
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png" /> 
+  <link href="/aud/css/ut-content.css" rel="stylesheet" media="screen" title="Content CSS" type="text/css" /> 
+  <link href="/aud/css/ut-structure.css" rel="stylesheet" type="text/css" /> 
+  <link href="/aud/css/audiences.css" rel="stylesheet" type="text/css" /> 
+  <link href="css/audience.css" rel="stylesheet" type="text/css" /> 
+  <link href="/css/autosuggest.css" rel="stylesheet" type="text/css" /> 
+  <link href="/css/prettyPhoto.css" type="text/css" rel="stylesheet" /> 
+  <script type="text/javascript" src="/js/swfobject.js"></script> 
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script> 
+  <script type="text/javascript" src="/js/jquery.prettyPhoto.js"></script> 
+  <script type="text/javascript" src="/js/cycle2.js"></script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+        $("a[rel^='prettyPhoto']").prettyPhoto({social_tools: false});
+    });
+    </script> 
+  <style type="text/css">
+#page .block .feed-image {
+	padding: 10px;
+	margin: 0 0 2px;
+	width: 120px;
+}
+#page .feed {
+	margin-top: 0px;
+}
+.slide {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 0;
+	display: block;
+}
+.feed-image {
+	background: #efefef;
+}
+.cycle-prev, .cycle-next {
+	position: absolute;
+	top: 0;
+	width: 10%;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	z-index: 800;
+	height: 100%;
+	cursor: pointer;
+	background-color: #222222;
+	font-size: 15em;
+	color: #FFFFFF;
+	line-height: 255px;
+}
+.cycle-prev {
+	left: 0;
+	text-align: left;
+}
+.cycle-next {
+	right: 0;
+	text-align: right;
+}
+.cycle-prev:hover, .cycle-next:hover {
+	opacity: .7;
+	filter: alpha(opacity=70)
+}
+.disabled {
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+.cycle-pager {
+	text-align: center;
+	width: 100%;
+	z-index: 500;
+	position: absolute;
+	bottom: 16px;
+}
+.cycle-pager span {
+	font-family: arial;
+	font-size: 3.5em;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	color: #ddd;
+	cursor: pointer;
+}
+.cycle-pager span.cycle-pager-active {
+	color: #ffa800;
+}
+.cycle-pager > * {
+	cursor: pointer;
+}
+</style> 
+ </head> 
+ <body class="home" onclick="remove_box()"> 
+  <div id="contain_abovefold"> 
+   <h1 class="hidden">California State University, Long Beach</h1> 
+   <div id="contain_heading"> 
+    <!-- <p class="audHeading">CSULB</p> --> 
+   </div> 
+   <div id="contain_header"> 
+    <div id="contain_siteid"> 
+     <div id="siteid_content"> 
+      <!-- Update Header ID here --> 
+      <!--<a href="/"><img src="/aud/img/hdr_seal_darkgray.gif" alt="California State University, Long Beach" title="California State University, Long Beach" width="400" height="75" /></a> --> 
+      <!--<h1><a title="Link to home page" href="/">California State University, Long Beach</a></h1>--> 
+      <!--<div id="click_siteid">
+	  	<a href="/"></a>
+	  </div>--> 
+     </div> 
+    </div> 
+    <div id="contain_search"> 
+     <h2 class="hidden">Destinations, Site Search and Services</h2> 
+     <!-- GSA search --> 
+     <div id="gSearchbox"> 
+      <!-- Show/Hide Audience Page Search Results --> 
+      <script type="text/javascript">
+//Hide suggestion box
+function remove_box()
+{
+	$('.autosuggest').hide();
+}
+
+//Show suggestion box
+function show_box()
+{
+	$('.autosuggest').slideDown(1000);
+}
+</script> 
+      <!-- Show/Hide Audience Page Search Results --> 
+      <!-- Audience Page Search Box --> 
+      <form method="get" action="http://google.calstate.edu/search" class="asholder" name="search" id="searchbox"> 
+       <div> 
+        <label for="SiteSearch1"> <input name="q" class="sitesearchbox1" type="text" id="SiteSearch1" title="Search CSULB" alt="Search CSULB" tabindex="1" size="20" maxlength="120" value="" /></label> 
+        <input type="image" class="sitesearchbutton" src="http://www.csulb.edu/images/interface/searchbutton_icon.gif" tabindex="2" alt="Search" /> 
+        <input type="hidden" name="access" value="p" /> 
+        <input type="hidden" name="site" value="csulb" /> 
+        <input type="hidden" name="output" value="xml_no_dtd" /> 
+        <input type="hidden" name="client" value="csulb-edu" /> 
+        <input type="hidden" name="sort" value="date:D:L:d1" /> 
+        <input type="hidden" name="proxystylesheet" value="csulb-edu" /> 
+        <input type="hidden" name="oe" value="UTF-8" /> 
+       </div> 
+      </form> 
+      <!-- Audience Page Search Box --> 
+     </div> 
+     <!-- End of gSearchbox --> 
+     <!-- Audience Page Search Box Value Scripting --> 
+     <script type="text/javascript">
+//Request results from search_keywords.php file according to the entered characters in the search box
+var options = 
+{
+	script:"/search/search_keywords.php?json=true&amp;limit=6&amp;",	/* limit is for displaying number of search suggest items. currently its 6 */
+	varname:"input",
+	json:true,
+	shownoresults:false,  
+	maxresults:6,
+	callback: function (obj) 
+	{
+		if(obj == "")
+		{ 
+			document.getElementById('SiteSearch1').value = obj.id;
+		}
+	}
+};
+
+//Return the matched results from search_keywords.php file and display
+var as_json = new bsn.AutoSuggest('SiteSearch1', options);
+var options_xml = 
+{
+	script: function (input) 
+	{ 			
+		return "search_keywords.php?input="+input+"&amp;SiteSearch1="+document.getElementById('SiteSearch1').value; 
+	},varname:"input"
+};
+</script> 
+     <!-- Audience Page Search Box Value Scripting --> 
+     <!-- GSA search --> 
+     <!-- OLD Search --> 
+     <!--
+<form method="get" action="http://www.google.com/u/lbsu" id="content_searchtools">
+      <label class="hidden" for="SiteSearch"> Search CSULB</label>
+      <input type="hidden" name="hq" value="inurl:www.csulb.edu" />
+      <input name="q" type="text" size="18" maxlength="120" id="SiteSearch" tabindex="1" class="sitesearchbox" value="" onfocus="clearText(this)" />
+      <input type="image" class="sitesearchbutton" src="/images/interface/searchbutton_icon.gif" alt="Search" />
+    </form>
+--> 
+     <!-- OLD Search --> 
+     <!-- Google Custom Search 28mar13 --> 
+     <!--
+	<script>
+  (function() {
+    var cx = '017715013685290007965:ea9duptman8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+--> 
+     <!-- Google Custom Search 28mar13 --> 
+     <!-- Key campus related web applications --> 
+     <ul id="searchtools_links"> 
+      <li><a href="http://my.csulb.edu">MyCSULB</a> <span class="bull"> &#x2022; </span></li> 
+      <li><a href="https://bbcsulb.desire2learn.com">BeachBoard</a> <span class="bull"> &#x2022; </span></li> 
+      <li><a href="http://www.fortyninershops.net/">Bookstore</a> <span class="bull"> &#x2022; </span></li> 
+      <li><a href="/library">Library</a> <span class="bull"> &#x2022; </span></li> 
+      <li><a href="http://daf.csulb.edu/email">E-mail</a> <span class="bull"> &#x2022; </span></li> 
+      <li><a href="/search">Campus Directory</a></li> 
+     </ul> 
+    </div> 
+    <div class="clear_float">
+     <a href="#content">Skip links</a>
+    </div> 
+   </div> 
+   <div id="design_audnavbanner"> 
+    <div id="contain_audiencenav_banner"> 
+     <div id="contain_leftnav"> 
+      <h2 class="hidden">Audiences</h2> 
+      <ul id="audnav"> 
+       <li class="hidden"><a href="/">CSULB Home</a></li> 
+       <li class="studentaudience"><a href="/student-info/">Students</a></li> 
+       <li class="facultyaudience"><a href="/people/">Faculty &amp; Staff</a></li> 
+       <li class="alumniaudience"><a href="/alumni/">Alumni</a></li> 
+       <li class="parentsaudience"><a href="/parents/">Parents</a></li> 
+       <li class="communityaudience"><a href="/community/">Visitors &amp; Community</a></li> 
+       <li class="friendsaudience"><a href="/friends-info/">Giving to CSULB</a></li> 
+      </ul> 
+      <div id="social-media"> 
+       <a class="share-button" href="https://www.facebook.com/csulb" target="_blank"><img src="http://www.csulb.edu/connect/holiday/2013/images/flat-web-icon-set/black/Facebook.png" /></a>
+       <a class="share-button" href="https://twitter.com/csulb" target="_blank" title="Twitter"><img src="http://www.csulb.edu/connect/holiday/2013/images/flat-web-icon-set/black/Twitter.png" /></a>
+       <a class="share-button" href="https://plus.google.com/+csulb" target="_blank" title="Google+"><img src="http://www.csulb.edu/connect/holiday/2013/images/flat-web-icon-set/black/Google+.png" /></a>
+       <a class="share-button" href="http://www.instagram.com/csulongbeach" title="Instagram" target="_blank"><img src="http://www.csulb.edu/connect/holiday/2013/images/flat-web-icon-set/black/Instagram.png" /></a>
+       <!-- <a class="share-button" href="https://www.linkedin.com/edu/school?id=17828" target="_blank" title="LinkedIn"><img src="images/flat-web-icon-set/black/LinkedIn.png"></a> -->
+      </div> 
+     </div> 
+     <div id="contain_banner"> 
+      <div id="banner_content" class="cycle-slideshow" data-cycle-fx="fade" data-cycle-slides="&gt; div" data-cycle-timeout="10000" style="position:relative"> 
+       <span class="cycle-prev">&#x2039;</span> 
+       <span class="cycle-next">&#x203a;</span> 
+       <span class="cycle-pager"></span> 
+       <div class="slide"> 
+        <a href="http://www.csulb.edu/ideclare"> <img src="/images/homeslides/oct14/campaign.jpg" width="655" height="255" alt="The Campaign for California State University, Long Beach" title="The Campaign for California State University, Long Beach" /> </a> 
+       </div> 
+       <!-- <div class="slide">
+<a href="/firstweeklb">
+<img src="/images/homeslides/july14/fall2014.jpg" width="655" height="255" alt="Welcome Students, Facultu and Staff &ndash; Fall 2014" title="Welcome Students, Facultu and Staff &ndash; Fall 2014"/>
+</a>
+</div> --> 
+       <div class="slide"> 
+        <a href="http://www.csulb.edu/misc/inside/?p=47024"> <img src="/images/homeslides/may14/4.jpg" width="655" height="255" alt="Time Ranks CSULB a Top Value" title="Time Ranks CSULB a Top Value" /> </a> 
+       </div> 
+       <div class="slide"> 
+        <a href="http://www.csulb.edu/misc/inside/?p=49968"> <img src="/images/homeslides/jan15/1.jpg" width="655" height="255" alt="University Art Museum Celebrates Grand Opening of New Plaza" title="UAM's Grand Opening of New Plaza" /> </a> 
+       </div> 
+       <!--div class="slide">
+<a href="http://www.csulb.edu/commencement">
+<img src="/images/homeslides/may14/1c.jpg" width="655" height="255" alt="CSULB graduate celebrating during commencement" title="CSULB Commencement - Congratulations Class of 2014"/>
+</a>
+</div--> 
+       <!--
+<div class="slide">
+<a href="http://www.longbeachstate.com/genrel/052814aaa.html">
+<img src="/images/homeslides/may14/3b.jpg" width="655" height="255" alt="Long Beach State Claims Fourth Straight Big West Commissioner's Cup" title="Long Beach State Claims Fourth Straight Big West Commissioner's Cup"/>
+</a>
+</div>
+--> 
+       <!--<div class="slide">
+<a href="http://www.csulb.edu/president">
+<img src="/images/homeslides/may14/5.jpg" width="655" height="255" alt="Welcome President Jane Close Conoley" title="Welcome"/>
+</a>
+</div>--> 
+       <div class="slide"> 
+        <a href="http://www.csulb.edu/sites/beachmag/2014/06/three-two-one-scream/"> <img src="/images/homeslides/july14/throttle2.jpg" width="655" height="255" alt="Full Throttle at Six Flags Magic Mountain" title="Full Throttle at Six Flags Magic Mountain" /> </a> 
+       </div> 
+       <!--
+<div class="slide">
+<a href="http://youtu.be/iZX7tF5qH0A">
+<img src="/images/homeslides/july14/origami.jpg" width="655" height="255" alt="Origami Festival at the Earl Burns Miller Japanese Garden" title="Origami Festival at the Earl Burns Miller Japanese Garden"/>
+</a>
+</div>
+--> 
+       <!--<div class="slide">
+<a rel="prettyphoto" href="https://www.youtube.com/watch?v=iZX7tF5qH0A&hd=1&rel=0&width=800&height=480">
+<img src="/images/homeslides/july14/origami2.jpg" width="655" height="255" alt="Origami Festival at the Earl Burns Miller Japanese Garden" title="Origami Festival at the Earl Burns Miller Japanese Garden"/>
+</a>
+</div>--> 
+      </div> 
+     </div> 
+     <div class="clear_float"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="contain_belowfold"> 
+   <a id="content"></a> 
+   <div id="lenses"> 
+    <h2 class="hidden">Announcements</h2> 
+    <div class="lens"> 
+     <div class="lens_content"> 
+      <a href="/depts/enrollment/dates/registration_spring.html"> <img src="/images/lenses/lns_100_spring2015.gif" title="Fall 2015" alt="Fall 2015 icon" width="80" height="40" /> </a> 
+      <h3><a href="/depts/enrollment/dates/registration_spring.html">Spring 2015</a></h3> 
+      <p>Key Registration Dates &amp; Deadlines</p> 
+     </div> 
+    </div> 
+    <div class="lens"> 
+     <div class="lens_content"> 
+      <a href="/depts/enrollment/dates"> <img src="/images/lenses/lns_100_diamonds.gif" title="Key dates &amp; deadlines" alt="Key dates &amp; deadlines" width="80" height="40" /> </a> 
+      <h3><a href="/depts/enrollment/dates">Application Deadlines</a></h3> 
+      <p>Spring, Fall 2015</p> 
+     </div> 
+    </div> 
+    <div class="lens"> 
+     <div class="lens_content"> 
+      <a href="/depts/enrollment/registration/class_schedule/Spring_2015/By_Subject/"> <img src="/images/lenses/lns_100_malestudent.gif" title="Schedule of Classes" alt="Schedule of Classes" width="80" height="40" /> </a> 
+      <h3><a href="/depts/enrollment/registration/class_schedule/Spring_2015/By_Subject/">Schedule of Classes</a></h3> 
+      <p>Spring 2015</p> 
+     </div> 
+    </div> 
+    <!--<div class="lens">
+    <div class="lens_content"> <a href="http://www.csulb.edu/ideclare"> <img src="/images/lenses/lns_100_campaign.gif" title="DECLARE Campaign" alt="CSULB's First Capital Campaign" width="80" height="40" /> </a>
+      <h3><a href="http://www.csulb.edu/ideclare">DECLARE</a></h3>
+      <p>The Campaign for CSULB</p>
+    </div>
+  </div>--> 
+    <div class="lens"> 
+     <div class="lens_content"> 
+      <a href="http://www.longbeachstate.com/sports/w-baskbl/sched/lbst-w-baskbl-sched.html"> <img src="/images/lenses/lns_100_lb.jpg" title="Women's Basketball Schedule" alt="Women's Basketball Schedule" width="80" height="40" /> </a> 
+      <h3><a href="http://www.longbeachstate.com/sports/w-baskbl/sched/lbst-w-baskbl-sched.html">Basketball</a></h3> 
+      <p>2014 &#x2013; 2015 Schedule</p> 
+     </div> 
+    </div> 
+    <!--
+<div class="lens">
+    <div class="lens_content">
+    <a href="http://csulb.edu/alumni/events/ConcertsintheGrove2013.html">
+    <img src="/images/lenses/lns_80_concertsgrove.gif" title="Concerts in the Grove" alt="Concerts in the Grove" width="80" height="40" />
+    </a>
+    <h3><a href="http://csulb.edu/alumni/events/ConcertsintheGrove2013.html">Concerts in the Grove 2013</a></h3>
+    <p>July 13 &ndash; Aug 17</p>
+    </div>
+    </div>
+--> 
+    <!--
+     <div class="lens">
+    <div class="lens_content">
+    <a href="/convocation">
+    <img src="/images/lenses/lns_80_convocation.gif" title="CSULB Convocation" alt="Convocation" />
+    </a>
+    <h3><a href="/convocation">Convocation 2013</a></h3>
+    </div>
+    </div>
+--> 
+    <!--
+    <div class="lens">
+    <div class="lens_content">
+    <a href="http://www.csulb.edu/about/budgetcentral">
+    <img src="/images/lenses/lns_80_seal.gif" alt="Budget Central icon" title="CSULB Budget Central" width="80" height="40"  />
+    </a>
+    <h3><a href="http://www.csulb.edu/about/budgetcentral">Budget Central</a></h3>
+    <p>Information &amp; updates</p>
+    </div>
+    </div>
+--> 
+    <!--
+    <div class="lens">
+    <div class="lens_content">
+    <a href="/depts/enrollment/registration/class_schedule/">
+    <img src="/images/lenses/lns_80_students.gif" title="Schedule of Classes" alt="Schedule of Classes" width="80" height="40" />
+    </a>
+    <h3><a href="/depts/enrollment/registration/class_schedule/">Schedule of Classes</a></h3>
+    <p>Spring 2013</p>
+    </div>
+    </div>
+--> 
+    <!--
+ <div class="lens">
+    <div class="lens_content">
+    <a href="http://www.longbeachstate.com/jewelsofthenight">
+    <img src="/images/lenses/lns_100_jewels.gif" title="Jewels of the Night" alt="Jewels of the Night" width="80" height="40" />
+    </a>
+    <h3><a href="http://www.longbeachstate.com/jewelsofthenight">Jewels of the Night</a></h3>
+    <p>May 3, 2014</p>
+    </div>
+    </div>
+--> 
+    <!--
+<div class="lens">
+    <div class="lens_content">
+    <a href="/commencement">
+    <img src="/images/lenses/lns_80_comm2.gif" title="CSULB Commencement" alt="Commencement" />
+    </a>
+    <h3><a href="/commencement">Commencement</a></h3>
+    <p>2011 Ceremony Information</p>
+    </div>
+    </div>
+--> 
+    <div class="clear_float"></div> 
+   </div> 
+   <div id="content_belowfold"> 
+    <div id="contain_submenu"> 
+     <div id="contain_column1"> 
+      <h2 class="hidden">Main University Links</h2> 
+      <ul> 
+       <li><a href="/about/">About CSULB</a> </li> 
+       <li><a href="/academics/?utm_source=CSULBHomepage&amp;utm_medium=html&amp;utm_campaign=AcademicsFlow">Academics </a></li> 
+       <!--
+<li><a href="/depts/enrollment/registration/class_schedule/">Schedule of Classes</a></li>
+ 	
+--> 
+       <li><a href="/organization/">Administration &amp; Contacts</a></li> 
+       <li><a href="/arts">Art Performances &amp; Exhibitions</a></li> 
+       <li><a href="/sports/">Athletics </a></li> 
+       <li><a href="/calendars">Calendars &amp; Events</a></li> 
+       <li><a href="/student-info/collegesdepartments.html">Colleges &amp; Departments</a></li> 
+       <li><a href="/auxiliaries">CSULB Auxiliaries</a></li> 
+       <li><a href="/academics/degrees.html">CSULB Degrees &amp; Options</a></li> 
+       <li><a href="/employment/">Jobs @ The Beach</a></li> 
+       <li><a href="/research">Research</a></li> 
+       <!-- <li><a href="http://csulb.edu/news/">University News</a></li> --> 
+       <li><a href="/news">University News</a></li> 
+       <li class="bk-construction"><a href="/maps/">Maps, Parking &amp; Traffic Information</a></li> 
+      </ul> 
+      <!--
+<img src="/images/misc/lyt_198x10_grayhdivider.gif" width="224" height="10" alt="Divider" />
+<ul>
+<li class="bk-construction"><a href="/maps/">Maps, Parking &amp; Traffic Information</a></li>
+<li><a href="https://parking.csulb.edu/ebusiness/cmn/">Purchase Parking Permits Online</a></li>
+</ul>
+--> 
+      <!-- <div class="menudivider"></div> --> 
+      <!-- <img src="/images/misc/lyt_198x10_grayhdivider.gif" width="224" height="10" alt="Divider" /> --> 
+      <!--include virtual="/ssi/givetocsulb.html" --> 
+     </div> 
+    </div> 
+    <div id="page"> 
+     <!--  **************************  ALERT  ************************** --> 
+     <div class="alert"> 
+      <!--include virtual="/aud/ADMIN/ALERT.html"); --> 
+     </div> 
+     <!--  **************************  ALERT  ************************** --> 
+     <!--  **************************  INTRO  ************************** --> 
+     <!--
+<div class="block intro">
+		</div>
+		<div class="clear_float"></div>
+--> 
+     <!--  **************************  INTRO  ************************** --> 
+     <!-- <div class="clear_float hline"></div> --> 
+     <!--  **************************  ROW 1 starts  ************************** --> 
+     <!-- ***** ROW ***** --> 
+     <!--
+<div class="block w436">
+      <p style="margin-bottom:-15px;">
+      <a href="http://www.csulb.edu/projects/commencement/"><img src="images/misc/comm2014-416w.jpg" alt="comm2014-416w" width="416" height="40" /></a></p>
+      </div>
+--> 
+     <div class="clear_float"></div> 
+     <!-- News at the Beach --> 
+     <div class="block w218" style="float:right"> 
+      <a href="http://www.csulb.edu/news"><img src="/images/misc/newsatthebeach3-218w.gif" width="218" height="50" alt="This Week at the Beach Icon" title="News at the Beach" style="margin-bottom:0px;" /></a> 
+      <h2 class="hidden">This Week @ THE BEACH</h2> 
+      <div class="newsbox"> 
+       <div class="rss-box"> 
+        <ul class="rss-items"> 
+        </ul> 
+       </div> 
+       <script language="JavaScript" src="http://www.csulb.edu/ssi/news.php" charset="UTF-8" type="text/javascript" async=""></script> 
+      </div> 
+     </div> 
+     <!-- News at the Beach --> 
+     <!--
+<div class="block feed w436 gallery-wrap">
+   <h2 class="heading" style="font-size:14px;margin-top:5px;margin-bottom:15px"><a href="http://www.csulb.edu/firstweeklb">Welcome Back</a> &mdash; <a style="color:#ffa800;" href="http://www.csulb.edu/firstweeklb"> <img src="/images/misc/instagram88x25.gif" alt="Instagram Feed" title="Instagram Feed" width="60" height="17" style="margin-bottom:-6px;" /> &mdash;  #FirstWeekLB</a></h2>
+  <div class="cycle-slideshow"  
+    data-cycle-fx="scrollHorz" 
+    data-cycle-slides="> div"
+    data-cycle-timeout="4000">
+     </div>
+</div>
+--> 
+     <!-- 436 Wide --> 
+     <!-- <div class="block w436"> <a rel="prettyphoto" href="https://www.youtube.com/watch?v=cAOwXnAIiOk"><img src="/images/misc/declare-436w.jpg" width="436" height="240" alt="Declare Campaign" title="Declare: The Campaign for CSULB" style="margin-bottom:0px;" /></a> </div> --> 
+     <div class="block w436"> 
+      <a href="http://csulb.edu/ideclare/feed.php"><img src="/images/misc/declare3-436w.jpg" width="436" height="240" alt="Declare Campaign" title="Declare: The Campaign for CSULB" style="margin-bottom:0px;" /></a> 
+     </div> 
+     <!-- <div class="block w436"> <a href="http://csulb.edu/firstweeklb"><img src="/images/misc/firstweeklb-436w.jpg" width="436" height="240" alt="Declare Campaign" title="FirstweekLB" style="margin-bottom:0px;" /></a> </div> --> 
+     <!-- <div class="block w436"> <a rel="prettyphoto" href="https://www.youtube.com/watch?v=_-FyyJvxnfc"><img src="/images/misc/happyholidays-436w.jpg" width="436" height="240" alt="Happy Holidays" title="from the Beach" style="margin-bottom:0px;" /></a> </div> --> 
+     <!--<div class="block w436"> <a href="http://www.csulb.edu/beachmag"> <img src="/images/misc/beach-436w.jpg" width="436" height="170" alt="Beach magazine" title="Beach magazine" style="margin-bottom:0px;" /></a> </div>--> 
+     <!-- 436 Wide --> 
+     <!--  <div class="clear_float"></div> --> 
+     <!-- 218 Wide --> 
+     <!--<div class="block w218"> <a rel="prettyphoto" href="https://www.youtube.com/watch?v=cAOwXnAIiOk"> <img src="images/misc/padilla-198w.jpg" width="198" height="100" alt="Campaign for CSULB" title="Campaign for CSULB" /></a>
+        <h2 class="heading"><a rel="prettyphoto" href="https://www.youtube.com/watch?v=cAOwXnAIiOk">Declare</a></h2>
+        <p>A Capital Campaign for CSULB</p>
+      </div>--> 
+     <!-- 218 Wide --> 
+     <!-- 218 Wide --> 
+     <!--<div class="block w218"> <a rel="prettyphoto" href="http://youtu.be/aHTX9GytbYs"> <img src="images/misc/impact-198w.jpg" width="198" height="100" alt="Impact" title="Impact" /></a>
+        <h2 class="heading"><a rel="prettyphoto" href="http://youtu.be/aHTX9GytbYs">Declare Your Impact</a></h2>
+        <p>Declaring what the University means &mdash; #iDeclareLB</p>
+      </div>--> 
+     <!-- 218 Wide --> 
+     <!-- 218 Wide --> 
+     <!--
+<div class="block w218"> <a href="http://www.csulb.edu/sites/newsatthebeach/2014/10/helping-underrepresented-reach-science-dreams/"> <img src="images/misc/22m2-198w.gif" width="198" height="100" alt="$22.7M Grant" title="$22.7M Grant to CSULB" /></a>
+        <h2 class="heading"><a href="http://www.csulb.edu/sites/newsatthebeach/2014/10/helping-underrepresented-reach-science-dreams/">$22.7 million NIH BUILD grant helps students reach science dreams</a></h2>
+      </div>
+--> 
+     <!-- 218 Wide --> 
+     <!-- 218 Wide --> 
+     <div class="block w218"> 
+      <a href="http://www.csulb.edu/sites/newsatthebeach/2015/01/faculty-member-whitcraft-and-students-working-to-preserve-and-improve-wetlands/"> <img src="images/misc/wetlands-198w.jpg" width="198" height="100" alt="Working to Preserve Wetlands" title="Working to Preserve Wetlands" /></a> 
+      <h2 class="heading"><a href="http://www.csulb.edu/sites/newsatthebeach/2015/01/faculty-member-whitcraft-and-students-working-to-preserve-and-improve-wetlands/">Working to Preserve Wetlands</a></h2> 
+     </div> 
+     <!-- 218 Wide --> 
+     <div class="block w218"> 
+      <a href="http://www.csuhiep.com/enroll/"> <img src="images/misc/hc3-198w.gif" width="198" height="100" alt="Covered California" title="Covered California" /></a> 
+      <h2 class="heading"><a href="http://www.csuhiep.com/enroll/">Free Health Care Enrollment</a></h2> 
+      <p>Open Enrollment Ends Feb 15, 2015</p> 
+     </div> 
+     <!--
+<div class="block w218">  
+      <a href="http://www.csulb.edu/misc/inside/?p=45104">     
+      <img src="images/misc/kewavideo.jpg" width="198" height="100" alt="Kelp Watch 2014" title="Kelp Watch 2014" /></a>
+      <h2 class="heading"><a href="http://www.csulb.edu/misc/inside/?p=45104">Kelp Watch 2014</a></h2>
+      <p>Determining radioactive contamination from Japan's Fukushima nuclear plant.</p>    
+</div>
+--> 
+     <div class="clear_float"></div> 
+     <!-- InstanceEndEditable --> 
+    </div> 
+   </div> 
+   <div class="clear_float"></div> 
+  </div> 
+  <div id="siteindex_row"> 
+   <div style="border-top:4px solid #eee;padding-bottom:10px;"></div> 
+   <h2><a href="/sitemap/">Website Index</a></h2> 
+   <div class="siteindex_row"> 
+    <ul> 
+     <li><a href="/sitemap/">A</a></li> 
+     <li><a href="/sitemap/alphapages/B.html">B</a></li> 
+     <li><a href="/sitemap/alphapages/CA-CL.html">CA-CL</a></li> 
+     <li><a href="/sitemap/alphapages/CM-CZ.html">CM-CZ</a></li> 
+     <li><a href="/sitemap/alphapages/D.html">D</a></li> 
+     <li><a href="/sitemap/alphapages/E.html">E</a></li> 
+     <li><a href="/sitemap/alphapages/F.html">F</a></li> 
+     <li><a href="/sitemap/alphapages/G.html">G</a></li> 
+     <li><a href="/sitemap/alphapages/H.html">H</a></li> 
+     <li><a href="/sitemap/alphapages/I.html">I</a></li> 
+     <li><a href="/sitemap/alphapages/J.html">J</a></li> 
+     <li><a href="/sitemap/alphapages/K.html">K</a></li> 
+     <li><a href="/sitemap/alphapages/L.html">L</a></li> 
+     <li><a href="/sitemap/alphapages/M.html">M</a></li> 
+     <li><a href="/sitemap/alphapages/N.html">N</a></li> 
+     <li><a href="/sitemap/alphapages/O.html">O</a></li> 
+     <li><a href="/sitemap/alphapages/P.html">P</a></li> 
+     <li><a href="/sitemap/alphapages/Q.html">Q</a></li> 
+     <li><a href="/sitemap/alphapages/R.html">R</a></li> 
+     <li><a href="/sitemap/alphapages/S.html">S</a></li> 
+     <li><a href="/sitemap/alphapages/T.html">T</a></li> 
+     <li><a href="/sitemap/alphapages/U.html">U</a></li> 
+     <li><a href="/sitemap/alphapages/V.html">V</a></li> 
+     <li><a href="/sitemap/alphapages/W.html">W</a></li> 
+     <li><a href="/sitemap/alphapages/XYZ.html">X Y Z</a></li> 
+    </ul> 
+   </div> 
+   <div class="clear_float"></div> 
+  </div> 
+  <div id="footer"> 
+   <h2 class="hidden">Information and Emergency Services</h2> 
+   <div class="block"> 
+    <address> <strong>California State University, Long Beach</strong><br /> 1250 Bellflower Boulevard<br /> Long Beach, California 90840<br /> <span class="tel">562.985.4111</span> </address> 
+   </div> 
+   <div class="block"> 
+    <ul> 
+     <li><a href="/accessibility">Accessible Technology Initiative</a> </li> 
+     <li><a href="http://www.calstate.edu">California State University</a> (CSU)</li> 
+     <li><a href="/copyright">&copy; Copyright</a></li> 
+     <!-- <li><a href="/vsa"><img src="/images/icons/icn_vsa.gif" alt="icn_vsa" title="College Portrait" class="img-left" /></a></li> --> 
+    </ul> 
+   </div> 
+   <div class="block"> 
+    <ul> 
+     <li><a href="/emergency">Emergency Information</a></li> 
+     <li><a href="http://www.csulb.edu/divisions/students2/dss/">Disability Resources</a></li> 
+     <li><a href="/crisis">Crisis Assistance</a></li> 
+     <li><a href="/about/budgetcentral">Budget Central &#x2013; Updates</a></li> 
+    </ul> 
+   </div> 
+   <div class="block"> 
+    <ul> 
+     <li><a href="/feedback">Contact Us</a></li> 
+     <li><a href="/help/">Help</a></li> 
+     <li><a href="http://www.csulb.edu/cares "><img src="/images/misc/cares-50w.gif" alt="Cares" title="Cares Team" class="img-left" width="50" height="25" /></a> <a href="/cares ">Refer a student</a> to the<br />Cares Team</li> 
+    </ul>
+   </div> 
+   <div class="clear_float"></div> 
+  </div>   
+ </body>
+</html>

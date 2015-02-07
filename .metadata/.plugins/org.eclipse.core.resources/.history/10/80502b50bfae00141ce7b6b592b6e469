@@ -121,16 +121,15 @@ public class WebCrawler {
 	    accordingly to save the contents into the files.
 	    
 	    @param      String		The url to download the html
-	    			int			To append to the file name to determine num of files
 	    @return     NONE        
 	    ========================================================================== */
-    private static void DownloadingLinks(String url, int count) {
+    private static void DownloadingLinks(String url) {
         try {
             Document doc = Jsoup.connect(url).get();
             Elements links = doc.select("a[href]");
 
             String htmlContent = doc.html();
-            String fileToStore = "fileToStore" + Integer.toString(count);
+            String fileToStore = "fileToStore";
             SaveContentIntoFile(htmlContent, fileToStore);
 
             System.out.println("\nLinks: " + links.size());

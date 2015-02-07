@@ -1,0 +1,356 @@
+<!--?xml version="1.0" encoding="utf-8" ?--><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+ <head> 
+  <!-- BLOCK: uniform campus head  --> 
+  <meta charset="UTF-8" /> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible" /> 
+  <meta content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0" name="viewport" /> 
+  <link href="favicon.ico" rel="shortcut icon" /> 
+  <link href="apple-touch-icon.png" rel="apple-touch-icon" /> 
+  <link href="http://static.ucsc.edu/_responsive/css/ucsc.css" rel="stylesheet" type="text/css" /> 
+  <script src="http://static.ucsc.edu/_responsive/lib/modernizr/modernizr.js" type="text/javascript"></script> 
+  <script src="http://static.ucsc.edu/_responsive/lib/jquery/dist/jquery.js" type="text/javascript"></script> 
+  <script async="true" src="http://static.ucsc.edu/_responsive/js/analytics.js" type="text/javascript"></script> 
+  <script async="true" src="http://static.ucsc.edu/_responsive/js/imagecache.js" type="text/javascript"></script> 
+  <script async="true" src="http://static.ucsc.edu/_responsive/js/responsive.js" type="text/javascript"></script> 
+  <script async="true" src="http://static.ucsc.edu/_responsive/js/main.js" type="text/javascript"></script> 
+  <!-- END BLOCK: uniform campus head  --> 
+  <title>University of California, Santa Cruz: Celebrating 50 years</title> 
+  <meta content="Four-year public institution comprised of ten residential college communities nestled in the redwood forests and meadows overlooking central California's Monterey Bay." name="description" /> 
+  <meta content="university Santa Cruz California UC redwoods UC Santa Cruz UCSC banana slugs" name="keywords" /> 
+  <!-- Reaplaced local-html-head with page-html-head  --> 
+  <!--/global/blocks/features/billboards--> 
+  <link href="http://static.ucsc.edu/_responsive/lib/owlcarousel/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" /> 
+  <link href="http://static.ucsc.edu/_responsive/lib/owlcarousel/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css" /> 
+  <script src="http://static.ucsc.edu/_responsive/lib/owlcarousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script> 
+  <script src="http://static.ucsc.edu/_responsive/js/billboards.init.js" type="text/javascript"></script> 
+  <!--/global/blocks/features/fancybox--> 
+  <link href="http://static.ucsc.edu/_responsive/lib/fancybox/source/jquery.fancybox.css" rel="stylesheet" type="text/css" /> 
+  <script charset="utf-8" src="http://static.ucsc.edu/_responsive/lib/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script> 
+  <script charset="utf-8" src="http://static.ucsc.edu/_responsive/js/fancybox.init.js" type="text/javascript"></script> 
+  <style rel="stylesheet" type="text/css"><!--
+/** campaign banner www **/
+.event-badge {
+  display: block;
+}
+#campaign-banner {
+  width: 220px;
+  height: 70px;
+  border-radius: 5px;
+  -web-kit-border-radius: 5px;
+  -moz-kit-border-radius: 5px;
+  text-transform:uppercase;
+  
+  padding: 5px;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+}
+#campaign-banner a.campaign-left, #campaign-banner a.campaign-left:active, #campaign-banner a.campaign-right, #campaign-banner a.campaign-right:active {
+    display: block;
+	width: 104px;
+  	height: 60px;
+	background: #f1b521;
+	text-decoration: none;
+        font-size:.8em;
+	font-weight:bold;
+	border-bottom: 1px solid #ccc;
+}
+
+#campaign-banner a.campaign-left:hover,  #campaign-banner a.campaign-right:hover {
+	background: #00458c;
+	color:#FFF;
+}
+
+
+#campaign-banner a.campaign-left, #campaign-banner a.campaign-left:active {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 12px 23px 3px 5px;
+  text-align: right;
+  float: left
+}
+#campaign-banner a.campaign-right, #campaign-banner a.campaign-right:active {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 12px 5px 3px 27px;
+  text-align: left;
+  float: right;
+}
+#campaign-thumb {
+	border-radius: 35px;
+  	-web-kit-border-radius: 35px;
+ 	-moz-kit-border-radius: 35px;
+	background: url(http://www.ucsc.edu/images/banners/campaign-thumb.png) no-repeat left #fff;
+	position: absolute;
+	z-index: 2;
+	width: 40px;
+	height: 40px;
+	margin: 15px 0 0 91px;
+	border-bottom: 1px solid #ccc;
+    text-indent:-9000px;
+}
+--></style> 
+ </head> 
+ <body class="home www fifty"> 
+  <!-- Accessibility links. Hidden until they receive :focus --> 
+  <ul id="access-links"> 
+   <li><a href="#main">Skip to main content</a></li> 
+   <li><a href="#mainNav">Skip to main navigation</a></li> 
+  </ul> 
+  <!-- Do not show banner --> 
+  <div id="wrap"> 
+   <div id="container"> 
+    <div id="content"> 
+     <div class="site-header" role="banner"> 
+      <div class="row page-top"> 
+       <ul id="topNav"> 
+        <li><a href="http://my.ucsc.edu" title="Go to the MyUCSC portal">MyUCSC</a></li> 
+        <li><a href="tools/people.html" title="Find People - UCSC People Search">People</a></li> 
+        <li><a href="tools/calendars.html" title="View UCSC events, academic, and administrative calendars">Calendars</a></li> 
+        <li><a href="tools/azindex.html" title="A to Z index of important links">A-Z Index</a></li> 
+       </ul> 
+       <div class="search" role="search"> 
+        <!-- Google Custom Search -->
+        <div> 
+         <form action="http://www.ucsc.edu/search" id="cse-search-box">
+          <input name="cx" type="hidden" value="012090462228956765947:d0ywvq7bxee" /> 
+          <input name="cof" type="hidden" value="FORID:9" /> 
+          <input name="ie" type="hidden" value="UTF-8" /> 
+          <label class="hide" for="q">Search</label>
+          <input class="query" id="q" name="q" type="text" value="Search UCSC" /> 
+          <input alt="Search button" class="srchBtn" src="http://static.ucsc.edu/images/search_button.gif" type="image" />
+         </form> 
+        </div>
+        <!-- end GCS --> 
+       </div> 
+      </div> 
+      <div class="row names"> 
+       <div class="campus-name"> 
+        <h1><a class="campus-logo" href="index.html" id="logo">UC Santa Cruz</a></h1> 
+        <a class="mobile-menu" href="#mainNav">Menu</a> 
+       </div> 
+      </div> 
+      <div class="row main-navigation" role="navigation"> 
+       <ul id="mainNav"> 
+        <li class="first"><a href="about/index.html">About</a></li> 
+        <li><a href="admissions/index.html">Admissions</a></li> 
+        <li><a href="academics/index.html">Academics</a></li> 
+        <li><a href="research/index.html">Research</a></li> 
+        <li><a href="campus/index.html">Campus Life</a></li> 
+        <li><a href="visit/index.html">Visit UCSC</a></li> 
+        <li class="last qsg"><span>Quick Start Guides <img alt="more items when you click" src="http://static.ucsc.edu/images/drop_down_button.gif" /></span> 
+         <ul> 
+          <li><a href="http://studentservices.ucsc.edu">Current Students</a></li> 
+          <li><a href="quickstart/faculty-staff/index.html">Faculty &amp; Staff</a></li> 
+          <li><a href="http://alumni.ucsc.edu">Alumni</a></li> 
+          <li><a href="quickstart/prospective-students/index.html">Prospective Students</a></li> 
+          <li><a href="quickstart/family/index.html">Parents &amp; Family</a></li> 
+          <li><a href="quickstart/community/index.html">Community</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div id="main" role="main"> 
+      <div class="row"> 
+       <div id="carousel"> 
+        <div class="owl-carousel" id="slides">
+         <div class="slide">
+          <a href="http://50years.ucsc.edu/whosays"><img alt="Who says you can't crack open a star?" src="features/images/whosays-billboard.jpg" width="780" /></a>
+         </div>
+         <div class="slide">
+          <a href="http://50years.ucsc.edu/?ref=home"><img alt="50 Amazing Years" src="features/images/50-amazing-years.jpg" width="780" /></a>
+         </div>
+        </div> 
+       </div> 
+      </div> 
+      <div class="row three combined light"> 
+       <div class="wrap"> 
+        <div class="block events-block" id="events"> 
+         <h3 class="block-header"><a href="https://events.ucsc.edu">Featured <span>Events</span></a></h3> 
+         <dl> 
+          <dt>
+           Feb 
+           <strong>9</strong>
+          </dt> 
+          <dd>
+           <a href="http://news.ucsc.edu/2015/01/50th-alumni-art.html">50/50 - Art celebrating the 50th anniversary <br /></a>
+          </dd> 
+          <dt>
+           Feb 
+           <strong>20</strong>
+          </dt> 
+          <dd>
+           <a href="https://events.ucsc.edu/event/2727">Banff Mountain Film Festival World Tour<br /></a>
+          </dd> 
+          <dt>
+           Feb 
+           <strong>26</strong>
+          </dt> 
+          <dd>
+           <a href="https://events.ucsc.edu/event/2671">Anita Hill: Gender and Racial Equality – 1991-2015<br /></a>
+          </dd> 
+          <dt>
+           Apr 
+           <strong>24</strong>
+          </dt> 
+          <dd>
+           <a href="https://events.ucsc.edu/event/2690">11th Annual Graduate Research Symposium<br /></a>
+          </dd> 
+          <dt>
+           Apr 
+           <strong>25</strong>
+          </dt> 
+          <dd>
+           <a href="https://events.ucsc.edu/event/2826">Teach In: Bettina Aptheker<br />Stevenson College</a>
+          </dd> 
+         </dl> 
+         <p><a class="more" href="https://events.ucsc.edu">More events &raquo;</a></p> 
+        </div>
+       </div> 
+       <div class="wrap"> 
+        <div class="block news-block" id="news"> 
+         <h3 class="block-header"><a class="headline" href="http://news.ucsc.edu">University <span>News</span></a></h3> 
+         <ul class="archive-list"> 
+          <li> <a href="http://news.ucsc.edu/2015/02/laser-talk-watts.html"> <span class="thumbnail"> <img alt="Lewis Watts " class="fltlft" src="http://news.ucsc.edu/2015/02/images/laser-thumb-watts.jpg" /> </span> <span class="date">February 5, 2015</span> <span class="headline"> Institute of Arts and Sciences to host first LASER talk of the year </span> </a> </li> 
+          <li> <a href="http://news.ucsc.edu/2015/02/pika-study.html"> <span class="thumbnail"> <img alt="pika calling from top of rock" class="fltlft" src="http://news.ucsc.edu/2015/02/images/winnie-pika-thumb.jpg" /> </span> <span class="date">February 2, 2015</span> <span class="headline">Shrinking range of pikas in California mountains linked to climate change</span> </a> </li> 
+          <li> <a href="http://news.ucsc.edu/2015/01/50th-alumni-art.html"> <span class="thumbnail"> <img alt="UC Santa Cruz 50th Alumni Art Exhibition banner" class="fltlft" src="http://news.ucsc.edu/2015/01/images/50-50-thumb.jpg" /> </span> <span class="date">January 26, 2015</span> <span class="headline">Fifty artists from five decades: UC Santa Cruz 50th alumni exhibition opens Feb. 5 </span> </a> </li> 
+         </ul> 
+         <p class="more"><a class="more" href="http://news.ucsc.edu">More news&raquo;</a></p> 
+        </div> 
+       </div> 
+       <div class="wrap"> 
+        <div class="block quickstart-block" id="quickstart"> 
+         <h3 class="block-header">Quickstart <span>Guides</span></h3> 
+         <ul> 
+          <li><a href="http://studentservices.ucsc.edu">Current Students</a></li> 
+          <li><a href="quickstart/faculty-staff/index.html">Faculty &amp; Staff</a></li> 
+          <li><a href="http://alumni.ucsc.edu">Alumni</a></li> 
+          <li><a href="quickstart/prospective-students/index.html">Prospective Students</a></li> 
+          <li><a href="quickstart/family/index.html">Parents &amp; Family</a></li> 
+          <li><a href="quickstart/community/index.html">Community</a></li> 
+         </ul> 
+         <div class="event-badge" style="margin-top:10px;padding-left:10px;"> 
+          <div id="campaign-thumb">
+           Give, Don't Give In
+          </div> 
+          <div id="campaign-banner">
+           <a class="campaign-left" href="http://campaign.ucsc.edu/?utm_source=homepage&amp;utm_medium=button&amp;utm_campaign=original">UCSC Campaign</a>
+           <a class="campaign-right" href="https://secure.imodules.com/s/1069/index-2-column.aspx?sid=1069&amp;gid=1&amp;pgid=761&amp;cid=1722">Make a<br /> Gift Now!</a>
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="row three separate dark"> 
+       <div class="wrap">
+        <div class="block profile-block" id="profile">
+         <h3 class="block-header">Uncommon <span>People</span></h3>
+         <div class="inner">
+          <a href="http://news.ucsc.edu/2015/01/claire-max-award.html"><img alt="CLAIRE MAX" class="block-image" src="http://news.ucsc.edu/2015/01/images/claire-max-295-128.png" /></a>
+          <a class="upTitle" href="http://news.ucsc.edu/2015/01/claire-max-award.html">CLAIRE MAX</a>
+          <p>Professor of astronomy and astrophysics was awarded the American Astronomical Society's 2015 Joseph Weber Award for Astronomical instrumentation at the AAS winter meeting in Seattle.<a class="continu" href="http://news.ucsc.edu/2015/01/claire-max-award.html"> Continue&raquo;</a></p>
+         </div>
+        </div>
+       </div> 
+       <div class="wrap">
+        <div class="block factoid-block" id="know"> 
+         <h3 class="block-header">Did You <span>Know?</span></h3> 
+         <div class="inner">
+          <a href="http://news.ucsc.edu/2014/10/THE-ranking.html"><img alt="UCSC is ranked #1 in the world for research influence" height="227" src="images/thought-provoking/dyk-research-influence.svg" width="227" /></a>
+         </div> 
+        </div>
+       </div> 
+       <div class="wrap last">
+        <div class="block video-block" id="video">
+         <h3 class="block-header">Video <span>Spotlight</span></h3>
+         <div class="inner">
+          <a class="thumb_link" href="https://www.youtube.com/watch?v=lVnqEM5MjyM"><img alt="Play this video" class="play-button" height="35" src="http://static.ucsc.edu/images/play_btn.png" width="48" /><img alt="YouTube video thumbnail" class="block-image" src="http://news.ucsc.edu/video/images/kent-genome-browser.jpg" width="216" /></a>
+          <a class="upTitle" href="https://www.youtube.com/watch?v=lVnqEM5MjyM">Jim Kent: Genome Browser</a>
+          <p>Director Jim Kent explains how the web-based &quot;genome microscope&quot; allows researchers to explore genome sequences and make cross-species comparisons.&nbsp;<a class="continu" href="https://www.youtube.com/watch?v=lVnqEM5MjyM">Watch&raquo;</a> | <a class="continu" href="http://news.ucsc.edu/video/index.html" title="Video Library">Video Library&raquo;</a></p>
+         </div>
+        </div>
+       </div> 
+      </div> 
+      <div class="row four clear"> 
+       <div class="wrap">
+        <h4>About <span>UCSC</span></h4> 
+        <p>UC Santa Cruz is a public university like no other in California, combining the intimacy of a small, liberal arts college with the depth and rigor of a major research university.</p> 
+        <ul> 
+         <li><a href="about/facts-figures.html">Facts &amp; Figures</a></li> 
+         <li><a href="about/achievements/index.html">Achievements</a></li> 
+         <li><a href="http://cpevc.ucsc.edu/envision-ucsc/index.html">Envision: Our strategic plan</a></li> 
+         <li><a href="about/administration.html">Administration</a></li> 
+         <li><a href="http://library.ucsc.edu/">UCSC Libraries</a></li> 
+         <li><a href="about/employment.html">Employment</a></li> 
+         <li><a href="fees-cost/index.html">Cost of Attending</a></li> 
+         <li><a href="http://www.ucsc.edu/conserving-water/">Conserving Water</a></li> 
+         <li><a href="http://diversity.ucsc.edu">Diversity</a></li> 
+         <li><a href="about/crime-stats/index.html">Campus Security, Fire Reports</a></li> 
+        </ul>
+       </div> 
+       <div class="wrap">
+        <h4>Academic <span>Divisions</span></h4> 
+        <p>Looking for a specific division, undergraduate major, or graduate program?</p> 
+        <ul> 
+         <li><a href="http://arts.ucsc.edu">Arts</a></li> 
+         <li><a href="http://soe.ucsc.edu/">Engineering</a></li> 
+         <li><a href="http://humanities.ucsc.edu/">Humanities</a></li> 
+         <li><a href="http://pbsci.ucsc.edu/">Physical &amp; Biological Sciences</a></li> 
+         <li><a href="http://socialsciences.ucsc.edu/">Social Sciences</a></li> 
+         <li><a href="https://admissions.sa.ucsc.edu/discover/majors/index.cfm">Undergraduate Majors</a></li> 
+         <li><a href="http://graddiv.ucsc.edu/">Graduate Programs</a></li> 
+         <li><a href="http://www.ucsc-extension.edu/">UCSC Extension</a></li> 
+        </ul>
+       </div> 
+       <div class="wrap">
+        <h4>The <span>Colleges</span></h4> 
+        <p>UCSC residential learning colleges provide students with academic support, activities, and events that enhance the intellectual and social life of the campus.</p> 
+        <ul> 
+         <li><a href="campus/colleges.html">UCSC's Colleges</a></li> 
+         <li><a href="http://registrar.ucsc.edu/catalog/campus-life/index.html">Compare the Colleges</a></li> 
+         <li><a href="/publications/Communities-of-Learning-2013-14-web.pdf">Communities of Learning</a></li> 
+        </ul>
+       </div> 
+       <div class="wrap last">
+        <h4>Support <span>UCSC</span></h4> 
+        <p>Learn more about the need for private gifts and the Campaign for UCSC — and please consider making a gift today.</p> 
+        <ul> 
+         <li><a href="http://giving.ucsc.edu/index.html">Need for Support</a></li> 
+         <li><a href="http://campaign.ucsc.edu">Campaign for UCSC</a></li> 
+         <li><a href="https://secure.imodules.com/s/1069/index-2-column.aspx?sid=1069&amp;gid=1&amp;pgid=761&amp;cid=1722">Give Today</a></li> 
+        </ul>
+       </div> 
+      </div> 
+     </div> 
+     <div class="row" id="footer"> 
+      <p class="links"><a href="feedback/index.html">Feedback</a></p> 
+      <p class="address home">UC Santa Cruz, 1156 High Street, Santa Cruz, Ca 95064<br /> &copy;2015 Regents of the University of California. All Rights Reserved.</p> 
+      <p class="social-media"><a class="icon icon-twitter" href="http://twitter.com/ucsc">Twitter</a> <a class="icon icon-instagram" href="http://instagram.com/ucsc">Instagram</a> <a class="icon icon-facebook" href="http://www.facebook.com/ucsantacruz">Facebook</a> <a class="icon icon-youtube" href="http://youtube.com/ucsantacruz">YouTube</a> <a class="icon icon-linkedin" href="http://www.linkedin.com/groups?home=&amp;gid=102708">LinkedIn</a></p> 
+     </div> 
+     <div class="row legal"> 
+      <p><a href="http://its.ucsc.edu/terms/">Privacy Policy and Terms of Use</a></p> 
+     </div> 
+    </div>
+    <!-- /content--> 
+   </div>
+   <!-- /container --> 
+  </div>
+  <!-- /wrap --> 
+  <!-- Google Analytics replaced with analytics.js --> 
+  <script type="text/javascript">
+
+var code = "utm_source=homepage&amp;utm_campaign=carousel&amp;utm_medium=slide";
+var board = document.getElementById("billboard");
+var slides = board.getElementsByTagName("a");
+for(var i=0;i<slides.length;i++) {
+	var url = slides[i].getAttribute("href");
+	var separator = "?";
+	if (url.indexOf('?') !=-1) {
+		separator = "&amp;";
+	}
+	slides[i].setAttribute("href", url + separator + code + "-" + i);
+}
+
+</script>  
+ </body>
+</html>

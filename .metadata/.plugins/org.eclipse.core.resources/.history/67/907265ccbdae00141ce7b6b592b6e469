@@ -17,6 +17,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.*;
 
 public class WebCrawler {
@@ -96,21 +97,13 @@ public class WebCrawler {
         }
     }
 
-    /*  ==========================================================================
-	    Stores the html contents into the file in directory WebCrawlerContents
-	    
-	    @param      String		The content of the html
-	    			String		The file name to store contents in
-	    @return     NONE        
-	    ========================================================================== */
     private static void SaveContentIntoFile(String htmlContent, String fileToStore) {
         System.out.println("Storing into file...\n");
         System.out.println(htmlContent);
         try {
-	        PrintWriter writer = new PrintWriter("WebCrawlerContents/" + fileToStore, "UTF-8");
-	        writer.println(htmlContent);
-	        writer.close();
-        }
+        PrintWriter writer = new PrintWriter("WebCrawlerContents/" + fileToStore, "UTF-8");
+        writer.println(htmlContent);
+        writer.close();
         catch (IOException e){
         	e.printStackTrace();
         }
@@ -121,16 +114,15 @@ public class WebCrawler {
 	    accordingly to save the contents into the files.
 	    
 	    @param      String		The url to download the html
-	    			int			To append to the file name to determine num of files
 	    @return     NONE        
 	    ========================================================================== */
-    private static void DownloadingLinks(String url, int count) {
+    private static void DownloadingLinks(String url) {
         try {
             Document doc = Jsoup.connect(url).get();
             Elements links = doc.select("a[href]");
 
             String htmlContent = doc.html();
-            String fileToStore = "fileToStore" + Integer.toString(count);
+            String fileToStore = "fileToStore";
             SaveContentIntoFile(htmlContent, fileToStore);
 
             System.out.println("\nLinks: " + links.size());
@@ -143,7 +135,7 @@ public class WebCrawler {
 
     private static void Webcrawl(ArrayList<String> urls) {
         for (int i = 0; i < urls.size(); ++i) {
-            DownloadingLinks(urls.get(i), i);
+            DownloadingLinks(urls.get(i));
         }
     }
 
