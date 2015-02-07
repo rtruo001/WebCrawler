@@ -134,6 +134,5 @@ public class WebCrawler {
         }
 
         Webcrawl(urls);
-        System.out.println("\nFINISHED");
     }
 }
