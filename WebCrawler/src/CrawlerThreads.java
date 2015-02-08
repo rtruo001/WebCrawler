@@ -14,13 +14,16 @@ public class CrawlerThreads implements Runnable {
 	//PUBLIC VARIABLES
 	public LinkedList<String> thread_url;
 	public static HashMap<String, String> duplicateLinks;
+	public static int count;
 
 	/*
 	 * Constructors
 	 */
 	public CrawlerThreads(LinkedList<String> text_urls) {
 		thread_url = text_urls;
-		duplicateLinks = new HashMap<String, String>();
+		count = 0;
+		if (count == 0)
+			duplicateLinks = new HashMap<String, String>();
 	}
 	
 	public void run() {
@@ -28,7 +31,6 @@ public class CrawlerThreads implements Runnable {
 	}
 	
 	public synchronized void preDownload() {
-		int count = 0;
 		while (thread_url.size() != 0) {
 			DownloadingLinks(thread_url.pop(), count);
 			++count;
@@ -64,11 +66,40 @@ public class CrawlerThreads implements Runnable {
 	    }
 	}
 	
+	/*  ==========================================================================
+	    Checks if links begin with http:// or https://. Links must start with
+	    these correct protocols.
+	    
+	    @param      String    	The links that are getting crawled.
+	    @return     boolean		If the protocols are supported or not.        
+	    ========================================================================== */
+	private boolean CheckProtocols(String link) {
+		//Not a protocol
+		if (link.length() < 7) {
+			return false;
+		}
+		if (link.substring(0, 7).equals("http://") || link.substring(0, 8).equals("https://")) {
+			return true;
+		}
+		return false;
+	}
+	
+	/*  ==========================================================================
+	    Stores the links into into a hashmap to ensure duplicates would not happen
+	    
+	    @param      Elements    	The links read from the HTML.
+	    @return    	None	       
+	    ========================================================================== */
 	private void StoringLinksIntoList(Elements links) {
 		for (Element link : links) {
-			if (!duplicateLinks.containsKey(link.attr("abs:href"))) {
-				duplicateLinks.put(link.attr("abs:href"),link.attr("abs:href"));
-				thread_url.push(link.attr("abs:href"));
+			boolean ifSupportedProtocols = CheckProtocols(link.attr("abs:href"));
+			if (ifSupportedProtocols) {
+				if (!duplicateLinks.containsKey(link.attr("abs:href"))) {
+					duplicateLinks.put(link.attr("abs:href"),link.attr("abs:href"));
+					thread_url.push(link.attr("abs:href"));
+				}
+				else { /*Move onto next link*./ 
+			else { /*Move onto next link*/ }
 			}
 		}
 	}
