@@ -1,467 +1,218 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
-<html lang="en" dir="ltr" version="HTML+RDFa 1.1" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
- <head profile="http://www.w3.org/1999/xhtml/vocab"> 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-  <link rel="shortcut icon" href="http://www.rutgers.edu/sites/system/themes/nb/favicon.ico" type="image/vnd.microsoft.icon" /> 
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" /> 
-  <meta name="generator" content="Drupal 7 (http://drupal.org)" /> 
-  <meta name="description" content="Rutgers, the sole university in the United States that is a colonial college, a land-grant institution, and a public institution, stands proudly in the top tier of national research universities." /> 
-  <link rel="canonical" href="http://www.rutgers.edu/" /> 
-  <link rel="shortlink" href="http://www.rutgers.edu/" /> 
-  <title>Rutgers University</title> 
-  <link type="text/css" rel="stylesheet" href="http://www.rutgers.edu/sites/system/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" /> 
-  <link type="text/css" rel="stylesheet" href="http://www.rutgers.edu/sites/system/files/css/css_Dbo1exX0tXjWG5yZ4gpOPJXgquwFfe5ooWcz6TOgJRI.css" media="all" /> 
-  <link type="text/css" rel="stylesheet" href="http://www.rutgers.edu/sites/system/files/css/css_vNMXIXfWwbGmiBZb-PNV40Q8BgkDUutytWQT09_nv74.css" media="all" /> 
-  <link type="text/css" rel="stylesheet" href="http://www.rutgers.edu/sites/system/files/css/css_I3A0XR-FwOaoyMzwysN9G4BYjtE30tna03l7zcjK5Js.css" media="all" /> 
-  <!--[if (lt IE 9)&(!IEMobile)]>
-<link type="text/css" rel="stylesheet" href="http://www.rutgers.edu/sites/system/files/css/css_gk3DnO39N45XOPXu7DtPPG1CEVYDlKBDKtLr1u6e2ro.css" media="all" />
-<![endif]--> 
-  <!--[if gte IE 9]><!--> 
-  <link type="text/css" rel="stylesheet" href="http://www.rutgers.edu/sites/system/files/css/css_QrrYXqd_MyjIvXDfe3lGUT73bG6RavhV2HH0cpmHQwg.css" media="all" /> 
-  <!--<![endif]--> 
-  <script type="text/javascript" src="http://www.rutgers.edu/sites/system/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script> 
-  <script type="text/javascript" src="http://www.rutgers.edu/sites/system/files/js/js_5qUrthFb2Q1IiDNKc1JERplrTd4oN8MW4GlivQhA-nQ.js"></script> 
-  <script type="text/javascript" src="http://www.rutgers.edu/sites/system/files/js/js_3rP_rXOCJHQ2jq-npArz8Ena0rMGmhPMWCcDwTS7c7M.js"></script> 
-  <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-870616-33"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script> 
-  <script type="text/javascript" src="http://www.rutgers.edu/sites/system/files/js/js_PSRONwFbUEHOQGHbHWhFBNeSlFlMDcjRXJX4LqIqnH0.js"></script> 
-  <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"nb", "theme_token":"hoXRq2Unzdhe957PbhJkEK1t-54eaMkvvL9ocanods0", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fmodules\u002Fcustom\u002Fru_search\u002Fru_search.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fjquery.hoverIntent.minified.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fjquery.bgiframe.min.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsuperfish.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsupersubs.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsupposition.js":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fsftouchscreen.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fsuperfish\u002Fsuperfish.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Flinkit\u002Feditors\u002Fckeditor\u002FlinkitDialog.js":1, "sites\u002Fsystem\u002Fmodules\u002Fcustom\u002Fnb_custom\u002Fjs\u002Frutodaybutton.js":1, "sites\u002Fall\u002Fmodules\u002Fcustom\u002Fru_menu_toogle\u002Fru_menu_toggle.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fgoogle_analytics\u002Fgoogleanalytics.js":1, "0":1, "sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fjs\u002Fcollapsible.js":1, "sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fjs\u002Fru.js":1, "sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fjs\u002Fnb.js":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Fomega\u002Fjs\u002Fjquery.formalize.js":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Fomega\u002Fjs\u002Fomega-mediaqueries.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fdate\u002Fdate_api\u002Fdate.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "sites\u002Fall\u002Fmodules\u002Fcustom\u002Fru_menu_toogle\u002Fru_menu_toggle.css":1, "sites\u002Fall\u002Fmodules\u002Fcustom\u002Fru_search\u002Fru_search.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fckeditor\u002Fckeditor.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fcss\u002Fsuperfish.css":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fcss\u002Fsuperfish-vertical.css":1, "sites\u002Fall\u002Flibraries\u002Fsuperfish\u002Fcss\u002Fsuperfish-navbar.css":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Falpha\u002Fcss\u002Falpha-reset.css":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Falpha\u002Fcss\u002Falpha-mobile.css":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Falpha\u002Fcss\u002Falpha-alpha.css":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Fomega\u002Fcss\u002Fformalize.css":1, "sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fcollapsible.css":1, "sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-global.css":1, "sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fglobal.css":1, "ie::normal::sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fru-alpha-default.css":1, "ie::normal::sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fru-alpha-default-normal.css":1, "ie::normal::sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-alpha-default.css":1, "ie::normal::sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-alpha-default-normal.css":1, "ie::normal::sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Falpha\u002Fcss\u002Fgrid\u002Falpha_default\u002Fnormal\u002Falpha-default-normal-12.css":1, "narrow::sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fru-alpha-default.css":1, "narrow::sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fru-alpha-default-narrow.css":1, "narrow::sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-alpha-default.css":1, "narrow::sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-alpha-default-narrow.css":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Falpha\u002Fcss\u002Fgrid\u002Falpha_default\u002Fnarrow\u002Falpha-default-narrow-12.css":1, "normal::sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fru-alpha-default.css":1, "normal::sites\u002Fall\u002Fthemes\u002Fcustom\u002Fru\u002Fcss\u002Fru-alpha-default-normal.css":1, "normal::sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-alpha-default.css":1, "normal::sites\u002Fsystem\u002Fthemes\u002Fnb\u002Fcss\u002Fnb-alpha-default-normal.css":1, "sites\u002Fall\u002Fthemes\u002Fcontrib\u002Fomega\u002Falpha\u002Fcss\u002Fgrid\u002Falpha_default\u002Fnormal\u002Falpha-default-normal-12.css":1}}, "superfish":{"1":{"id":"1", "sf":{"delay":"400", "animation":{"opacity":"show", "height":"show"}, "speed":100, "autoArrows":false, "dropShadows":false, "disableHI":false}, "plugins":{"supposition":true, "bgiframe":false, "supersubs":{"minWidth":"12", "maxWidth":"27", "extraWidth":1}}}}, "googleanalytics":{"trackOutbound":1, "trackMailto":1, "trackDownload":1, "trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}, "omega":{"layouts":{"primary":"normal", "order":[ "narrow", "normal" ], "queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 800px) and (orientation:landscape)", "normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
-//--><!]]>
-</script> 
-  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+ <head> 
+  <title>NSF FastLane Home</title> 
+  <link href="/css/nsf-fastlane-module.css" type="text/css" rel="stylesheet" /> 
  </head> 
- <body class="html front not-logged-in page-home"> 
-  <div id="skip-link"> 
-   <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a> 
-  </div> 
-  <div class="page clearfix" id="page"> 
-   <header id="section-header" class="section section-header"> 
-    <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix"> 
-     <div id="zone-user" class="zone zone-user clearfix container-12"> 
-      <div class="grid-7 region region-user-first" id="region-user-first"> 
-       <div class="region-inner region-user-first-inner"> 
-        <div class="block block-menu block-menu-sliver block-menu-menu-sliver odd block-without-title" id="block-menu-menu-sliver"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <ul class="menu">
-            <li class="first leaf"><a href="http://rutgers.edu" title="Universitywide">Universitywide</a></li> 
-            <li class="leaf"><a href="http://newbrunswick.rutgers.edu?utm_source=uwide_sliver&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_sliver">New Brunswick</a></li> 
-            <li class="leaf"><a href="http://www.newark.rutgers.edu/?utm_source=uwide_sliver&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_sliver">Newark</a></li> 
-            <li class="leaf"><a href="http://www.camden.rutgers.edu/?utm_source=uwide_sliver&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_sliver">Camden</a></li> 
-            <li class="leaf"><a href="http://rbhs.rutgers.edu/?utm_source=uwide_sliver&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_sliver">RBHS</a></li> 
-            <li class="last leaf"><a href="http://onlinelearning.rutgers.edu/?utm_source=uwide_sliver&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_sliver">Online</a></li> 
-           </ul> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div>
-      <div class="grid-5 region region-user-second" id="region-user-second"> 
-       <div class="region-inner region-user-second-inner"> 
-        <div class="block block-ru-menu-toggle block-ru-menu-toggle block-ru-menu-toggle-ru-menu-toggle odd block-without-title" id="block-ru-menu-toggle-ru-menu-toggle"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <div id="menu-toggle">
-            <a id="menu-toggle-link" href="#">Menu</a>
-           </div> 
-          </div> 
-         </div> 
-        </div>
-        <div class="block block-ru-search block-rusearch block-ru-search-rusearch even block-without-title" id="block-ru-search-rusearch"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <form action="http://search.rutgers.edu/web.html" method="GET" name="rusearch" id="rusearch" target="_blank"> 
-            <input alt="Search term" id="rusearchbox" name="q" size="15" type="text" value="SEARCH" onblur="this.value = (this.value == \'\' ? \'SEARCH\' : this.value);" onclick="this.value = (this.value == \'SEARCH\' ? \'\' : this.value);" onfocus="this.select()" /> 
-            <select id="rusearchselect" onchange="RUSearchSubmitAlter(this.value)"> <option value="http://search.rutgers.edu/web.html">Websites</option> <option value="http://search.rutgers.edu/people.html">People</option> <option value="http://search.rutgers.edu/events.html">Events</option> <option value="http://search.rutgers.edu/buildings.html">Buildings</option> <option value="http://search.rutgers.edu/rbhs-search.html">RBHS</option> </select> 
-            <input alt="Submit" id="rusearchbutton" type="submit" value="SEARCH" /> 
-           </form> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-     </div> 
-    </div>
-    <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix"> 
-     <div id="zone-branding" class="zone zone-branding clearfix container-12"> 
-      <div class="grid-12 region region-branding" id="region-branding"> 
-       <div class="region-inner region-branding-inner"> 
-        <div class="branding-data clearfix"> 
-         <div class="logo-img"> 
-          <a href="/" rel="home" title="" class="active"><img src="http://www.rutgers.edu/sites/system/themes/nb/images/Rutgers_sig.png" alt="" id="logo" /></a> 
-         </div> 
-        </div> 
-        <div class="block block-nb-custom block-giving block-nb-custom-giving odd block-without-title" id="block-nb-custom-giving"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <a href="http://support.rutgers.edu/s/896/Foundation/Givestart.aspx" class="giving-to-rutgers"><img alt="Giving to Rutgers" title="Giving to Rutgers" src="/sites/system/modules/custom/nb_custom/images/GivingToRutgers_btn.gif" /><span class="giving-text">Giving to Rutgers</span></a> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div>
-      <div class="grid-12 region region-menu" id="region-menu"> 
-       <div class="region-inner region-menu-inner"> 
-        <div class="block block-superfish block-1 block-superfish-1 odd block-without-title" id="block-superfish-1"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0">
-            <li id="menu-814-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-11 sf-parent-children-2 sf-single-children-9 menuparent"><a href="/about/about-university" class="sf-depth-1  menuparent">About</a>
-             <ul>
-              <li id="menu-819-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about/about-university" title="" class="sf-depth-2 ">About the University</a></li>
-              <li id="menu-821-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/locations" class="sf-depth-2 ">Locations</a></li>
-              <li id="menu-823-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/facts-figures" class="sf-depth-2 ">Facts &amp; Figures</a></li>
-              <li id="menu-820-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/about/where-world-rutgers" class="sf-depth-2 ">Where in the World Is Rutgers?</a></li>
-              <li id="menu-822-1" class="middle odd sf-item-5 sf-depth-2"><a href="/about/history" class="sf-depth-2 ">History</a></li>
-              <li id="menu-824-1" class="middle even sf-item-6 sf-depth-2"><a href="/about/leadership-governance" class="sf-depth-2 ">Leadership &amp; Governance</a></li>
-              <li id="menu-825-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/about/universitywide-offices" class="sf-depth-2 ">Universitywide Offices</a></li>
-              <li id="menu-826-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/about/supporting-rutgers" class="sf-depth-2 ">Supporting Rutgers</a></li>
-              <li id="menu-827-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/about/employment-rutgers" class="sf-depth-2 ">Employment at Rutgers</a></li>
-              <li id="menu-829-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/about/campus-safety" class="sf-depth-2 ">Campus Safety</a></li>
-              <li id="menu-828-1" class="last odd sf-item-11 sf-depth-2 sf-no-children"><a href="/about/contact-us" class="sf-depth-2 ">Contact Us</a></li>
-             </ul></li>
-            <li id="menu-815-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/academics/academics" class="sf-depth-1  menuparent">Academics</a>
-             <ul>
-              <li id="menu-830-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/academics/academics" title="" class="sf-depth-2 ">Academics</a></li>
-              <li id="menu-866-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/academics/schools-colleges" class="sf-depth-2 ">Schools &amp; Colleges</a></li>
-              <li id="menu-832-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/academics/global-study" class="sf-depth-2 ">Global Study</a></li>
-              <li id="menu-834-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/academics/libraries" class="sf-depth-2 ">Libraries</a></li>
-              <li id="menu-835-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/academics/catalogs" class="sf-depth-2 ">Catalogs</a></li>
-             </ul></li>
-            <li id="menu-954-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/academics/admissions" title="Admissions" class="sf-depth-1  menuparent">Admissions</a>
-             <ul>
-              <li id="menu-831-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/academics/admissions" class="sf-depth-2 ">Admissions</a></li>
-              <li id="menu-833-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/academics/financial-aid-tuition" class="sf-depth-2 ">Financial Aid &amp; Tuition</a></li>
-             </ul></li>
-            <li id="menu-818-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/alumni/rutgers-alumni" class="sf-depth-1  menuparent">Alumni</a>
-             <ul>
-              <li id="menu-836-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/alumni/rutgers-alumni" class="sf-depth-2 ">Rutgers Alumni</a></li>
-             </ul></li>
-            <li id="menu-816-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/health-health-care/health-academics-research-patient-care" class="sf-depth-1  menuparent">Health &amp; Health Care</a>
-             <ul>
-              <li id="menu-841-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/health-health-care/health-academics-research-patient-care" class="sf-depth-2 ">Health Academics, Research &amp; Patient Care</a></li>
-             </ul></li>
-            <li id="menu-817-1" class="last even sf-item-6 sf-depth-1 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/research/research-rutgers" class="sf-depth-1  menuparent">Research</a>
-             <ul>
-              <li id="menu-837-1" class="firstandlast odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research/research-rutgers" class="sf-depth-2 ">Research at Rutgers</a></li>
-             </ul></li>
-           </ul> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-      <div class="grid-12 region region-header-first" id="region-header-first"> 
-       <div class="region-inner region-header-first-inner"> 
-        <div class="block block-views block-homepage-features-block block-views-homepage-features-block odd block-without-title" id="block-views-homepage-features-block"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <div class="view view-homepage-features view-id-homepage_features view-display-id-block view-dom-id-4e2ea67db813cbb249ce2fe0411e5bb2"> 
-            <div class="view-content"> 
-             <div class="flexslider slideshow"> 
-              <ul class="slides"> 
-               <li class="views-row views-row-1 slide"> <img typeof="foaf:Image" src="http://www.rutgers.edu/sites/system/files/styles/ru_homepage_feature/public/feature_foundation.jpg?itok=WSoNq2C7" width="960" height="395" /> 
-                <div class="slide-content">
-                 <div class="close"></div>
-                 <span class="field-header"> </span> 
-                 <p><strong>THANKS A BILLION</strong></p> 
-                 <p>President Barchi announces the successful completion of Our Rutgers, Our Future campaign. <a href="http://news.rutgers.edu/news-release/rutgers-university-surpasses-1-billion-fundraising-goal/20150122#.VMFaPMbmyiC" style="color:#ffcc00;">Read more.</a></p> 
-                </div></li> 
-              </ul>
-             </div> 
-            </div> 
-           </div> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-     </div> 
-    </div>
-   </header> 
-   <section id="section-content" class="section section-content"> 
-    <div id="zone-preface-wrapper" class="zone-wrapper zone-preface-wrapper clearfix"> 
-     <div id="zone-preface" class="zone zone-preface clearfix container-12"> 
-      <div class="grid-4 region region-preface-first" id="region-preface-first"> 
-       <div class="region-inner region-preface-first-inner"> 
-        <div class="block block-block block-1 block-block-1 odd block-without-title" id="block-block-1"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <p><img alt="Camden" class="media-image attr__typeof__foaf:Image img__fid__775 img__view_mode__default attr__format__default attr__title__Camden" height="230" src="/sites/system/files/camden_sm_hp.jpg" title="Camden" typeof="foaf:Image" width="288" /></p> 
-           <p class="preface-title"><a href="http://www.camden.rutgers.edu/?utm_source=uwide_locations&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_locations">Rutgers University–Camden</a></p> 
-           <p>A rising leader among urban public research universities emphasizing civic engagement, Rutgers University–Camden offers transformative learning experiences in a personalized setting that allows undergraduate and graduate students to thrive. Rutgers tradition and prestige come alive in the heart of the Delaware Valley, where Rutgers–Camden provides access to opportunity.</p> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div>
-      <div class="grid-4 region region-preface-second" id="region-preface-second"> 
-       <div class="region-inner region-preface-second-inner"> 
-        <div class="block block-block block-3 block-block-3 odd block-without-title" id="block-block-3"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <p><img alt="New Brunswick" class="media-image attr__typeof__foaf:Image img__fid__776 img__view_mode__default attr__format__default attr__title__New Brunswick" height="230" src="/sites/system/files/nb_sm_hp.jpg" title="New Brunswick" typeof="foaf:Image" width="288" /></p> 
-           <p class="preface-title"><a href="http://newbrunswick.rutgers.edu/?utm_source=uwide_locations&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_locations">Rutgers University–New Brunswick</a></p> 
-           <p>Situated along central New Jersey’s Raritan River, Rutgers University–New Brunswick is where Rutgers began, nearly 250 years ago. Ranked among the world’s top 60 universities, Rutgers’ flagship is a prestigious Association of American Universities (AAU) institution, is home to internationally acclaimed faculty, is the Big Ten Conference’s most diverse university, and is a top producer of Fulbright Scholars.</p> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div>
-      <div class="grid-4 region region-preface-third" id="region-preface-third"> 
-       <div class="region-inner region-preface-third-inner"> 
-        <div class="block block-block block-2 block-block-2 odd block-without-title" id="block-block-2"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <p><img alt="Newark" class="media-image attr__typeof__foaf:Image img__fid__777 img__view_mode__default attr__format__default attr__title__Newark" height="230" src="/sites/system/files/newark_sm_hp.jpg" title="Newark" typeof="foaf:Image" width="288" /></p> 
-           <p class="preface-title"><a href="http://www.newark.rutgers.edu/?utm_source=uwide_locations&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_locations">Rutgers University–Newark</a></p> 
-           <p>Rutgers University–Newark is a diverse, urban, research university, where opportunity meets excellence—an anchor institution.&nbsp; Our faculty partners across sectors on research and creativity tackling the great questions and challenges of our urbanizing world.&nbsp; Our students roll up their sleeves right alongside them in New Jersey’s largest city and cultural capital.</p> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-     </div> 
-    </div>
-    <div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix"> 
-     <div id="zone-header" class="zone zone-header clearfix container-12"> 
-      <aside class="grid-12 region region-sidebar-second" id="region-sidebar-second"> 
-       <div class="region-inner region-sidebar-second-inner"> 
-        <div class="block block-block block-4 block-block-4 odd block-without-title" id="block-block-4"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <div class="left"> 
-            <p><img alt="RBHS academic" class="media-image attr__typeof__foaf:Image img__fid__778 img__view_mode__default attr__format__default attr__title__RBHS academic" height="160" src="/sites/system/files/rbhs_academic_sm_hp.jpg" title="RBHS academic" typeof="foaf:Image" width="288" /></p> 
-           </div> 
-           <div class="center"> 
-            <p class="preface-title"><a href="http://rbhs.rutgers.edu/?utm_source=uwide_locations&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_locations">Rutgers Biomedical and Health Sciences (RBHS)</a></p> 
-            <p>One of the nation’s largest academic health centers, RBHS transforms lives through the advancement of medical innovation, provides patient care supported by the latest research findings, and educates a full complement of health care professionals. With over 1.7 million patient visits annually, RBHS health care providers deliver a wide range of patient services across the state.</p> 
-           </div> 
-           <div class="right"> 
-            <p><img alt="RBHS clinical" class="media-image attr__typeof__foaf:Image img__fid__779 img__view_mode__default attr__format__default attr__title__RBHS clinical" src="/sites/system/files/rbhs_clinical_sm_hp.jpg" title="RBHS clinical" typeof="foaf:Image" /></p> 
-           </div> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </aside> 
-     </div> 
-    </div>
-    <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix"> 
-     <div id="zone-content" class="zone zone-content clearfix container-12"> 
-      <aside class="grid-6 push-6 region region-sidebar-first" id="region-sidebar-first"> 
-       <div class="region-inner region-sidebar-first-inner"> 
-        <section class="block block-views block-homepage-sidebar-home-news block-views-homepage-sidebar-home-news odd" id="block-views-homepage-sidebar-home-news"> 
-         <div class="block-inner clearfix"> 
-          <h2 class="block-title">News</h2> 
-          <div class="content clearfix"> 
-           <div class="view view-homepage-sidebar view-id-homepage_sidebar view-display-id-home_news view-dom-id-d7fed8167f0a6154575281a7d3173ce0"> 
-            <div class="view-content"> 
-             <div class="views-row views-row-1"> 
-              <div class="views-field views-field-field-link"> 
-               <div class="field-content">
-                <a href="http://news.rutgers.edu/news-release/mark-angelson-distinguished-alumnus-business-and-civic-leader-inducted-rutgers-board-governors/20150204#.VNKhIWTF9ex">Mark A. Angelson, Distinguished Alumnus, Business and Civic Leader, Inducted to Rutgers Board of Governors</a>
-               </div> 
-              </div> 
-             </div> 
-             <div class="views-row views-row-2"> 
-              <div class="views-field views-field-field-link"> 
-               <div class="field-content">
-                <a href="http://news.rutgers.edu/news-release/rutgers-university-surpasses-1-billion-fundraising-goal/20150122#.VMEHdGTF9ew">Rutgers University Surpasses $1 Billion Fundraising Goal</a>
-               </div> 
-              </div> 
-             </div> 
-             <div class="views-row views-row-3"> 
-              <div class="views-field views-field-field-link"> 
-               <div class="field-content">
-                <a href="http://news.rutgers.edu/research-news/common-pesticide-may-increase-risk-adhd/20150128#.VMp9-mTF9Vo">Common Pesticide May Increase Risk of ADHD</a>
-               </div> 
-              </div> 
-             </div> 
-             <div class="views-row views-row-4"> 
-              <div class="views-field views-field-field-link"> 
-               <div class="field-content">
-                <a href="http://news.rutgers.edu/news/rutgers-law-camden-course-teaches-lgbt-rights-lgbt-community/20150112#.VNOVZi5uOaq">Rutgers Law-Camden Course Teaches LGBT Rights for LGBT Community</a>
-               </div> 
-              </div> 
-             </div> 
-             <div class="views-row views-row-5"> 
-              <div class="views-field views-field-field-link"> 
-               <div class="field-content">
-                <a href="http://www.newark.rutgers.edu/news/law-2014-alumna-awarded-nations-top-post-graduate-criminal-law-fellowship">Law 2014 Alumna Awarded Nation’s Top Post-Graduate Criminal Law Fellowship</a>
-               </div> 
-              </div> 
-             </div> 
-            </div> 
-           </div> 
-          </div> 
-         </div> 
-        </section>
-        <div class="block block-nb-custom block-rutgers-today block-nb-custom-rutgers-today even block-without-title" id="block-nb-custom-rutgers-today"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix">
-            Read More News at
-           <a href="http://rutgerstoday.rutgers.edu/?utm_source=uwide_body&amp;utm_medium=web&amp;utm_campaign=uwide_body" class="rutgers-today-button"><img alt="Rutgers Today" title="Rutgers Today" src="/sites/system/modules/custom/nb_custom/images/ru_today_button_default.jpg" /></a>
-           <div class="rutgers-today-button-text">
-            Your Source for University News
-           </div> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </aside>
-      <div class="grid-6 pull-6 region region-content" id="region-content"> 
-       <div class="region-inner region-content-inner"> 
-        <a id="main-content"></a> 
-        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <div class="view view-homepage-main-text view-id-homepage_main_text view-display-id-page_1 view-dom-id-4c3f917b6cfdb70ab3ba74270b5516e8"> 
-            <div class="view-content"> 
-             <div class="views-row views-row-1 views-row-odd views-row-first views-row-last"> 
-              <article about="/node/2519" typeof="sioc:Item foaf:Document" class="node node-text-with-background node-published node-not-promoted node-not-sticky author-uwideadmin odd clearfix" id="node-text-with-background-2519" style="background: url(http://www.rutgers.edu/sites/system/files/NR14HomepageStudents4080_silo_UW.jpg)"> 
-               <header> 
-                <h2 property="dc:title" datatype="" class="node-title">Choosing Rutgers</h2> 
-               </header> 
-               <div class="content clearfix"> 
-                <div class="field field-name-body field-type-text-with-summary field-label-hidden">
-                 <div class="field-items">
-                  <div class="field-item even" property="content:encoded">
-                   <p><a href="http://admissions.rutgers.edu?utm_source=uwide_body&amp;utm_medium=web&amp;utm_campaign=uwide_body">Undergraduate Admissions</a></p> 
-                   <ul>
-                    <li>Come see Rutgers: <a href="http://admissions.rutgers.edu/Location/CampusVisit.aspx?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links">Get tour info</a>.</li> 
-                    <li>Create a <a href="http://infopacket.admissions.rutgers.edu/default.aspx?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links">customized brochure</a> based<br /> on your interests.</li> 
-                    <li>Let <a href="http://admissions.rutgers.edu/blogs/students">student bloggers</a> be your<br /> guides&nbsp;to campus life.</li> 
-                   </ul>
-                   <p><a href="http://gradstudy.rutgers.edu?utm_source=uwide_body&amp;utm_medium=web&amp;utm_campaign=uwide_body">Graduate and Professional<br /> Admissions</a></p> 
-                   <p><a href="http://rbhs.rutgers.edu?utm_source=uwide_body&amp;utm_medium=web&amp;utm_campaign=uwide_body">Health Sciences Admissions</a></p> 
-                   <p><a href="http://onlinelearning.rutgers.edu?utm_source=uwide_body&amp;utm_medium=web&amp;utm_campaign=uwide_body">Continuing and Online Education</a></p> 
-                   <p><a href="http://veterans.rutgers.edu?utm_source=uwide_body&amp;utm_medium=web&amp;utm_campaign=uwide_body">Veterans and Military Services</a></p> 
-                  </div>
-                 </div>
-                </div> 
-               </div> 
-               <div class="clearfix"> 
-                <nav class="links node-links clearfix"></nav> 
-               </div> 
-              </article> 
-             </div> 
-            </div> 
-           </div> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-     </div> 
-    </div>
-    <div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix"> 
-     <div id="zone-postscript" class="zone zone-postscript clearfix container-12"> 
-      <div class="grid-3 region region-postscript-first" id="region-postscript-first"> 
-       <div class="region-inner region-postscript-first-inner"> 
-        <section class="block block-menu block-menu-featured-links block-menu-menu-featured-links odd" id="block-menu-menu-featured-links"> 
-         <div class="block-inner clearfix"> 
-          <h2 class="block-title">Featured Links</h2> 
-          <div class="content clearfix"> 
-           <ul class="menu">
-            <li class="first leaf"><a href="http://news.rutgers.edu/research/research-news#.U-5RdkjKlvk?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Research News at Rutgers">Research News at Rutgers</a></li> 
-            <li class="leaf"><a href="http://ruevents.rutgers.edu/events/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Events Calendar">Events Calendar</a></li> 
-            <li class="leaf"><a href="http://sis.rutgers.edu/soc?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Schedule of Classes">Schedule of Classes</a></li> 
-            <li class="leaf"><a href="http://universitystrategy.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Strategic Plan">Strategic Plan</a></li> 
-            <li class="leaf"><a href="/academics/schools-colleges" title="Schools and Colleges">Schools and Colleges</a></li> 
-            <li class="leaf"><a href="https://onlinelearning.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Rutgers Online">Rutgers Online</a></li> 
-            <li class="last leaf"><a href="http://support.rutgers.edu/s/896/Foundation/Givestart.aspx?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Giving to Rutgers">Giving to Rutgers</a></li> 
-           </ul> 
-          </div> 
-         </div> 
-        </section> 
-       </div> 
-      </div>
-      <div class="grid-3 region region-postscript-second" id="region-postscript-second"> 
-       <div class="region-inner region-postscript-second-inner"> 
-        <section class="block block-menu block-menu-leadership-and-governance block-menu-menu-leadership-and-governance odd" id="block-menu-menu-leadership-and-governance"> 
-         <div class="block-inner clearfix"> 
-          <h2 class="block-title">Leadership and Governance</h2> 
-          <div class="content clearfix"> 
-           <ul class="menu">
-            <li class="first leaf"><a href="http://president.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Office of the President">Office of the President</a></li> 
-            <li class="leaf"><a href="http://governingboards.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Governing Boards">Governing Boards</a></li> 
-            <li class="leaf"><a href="http://universitysecretary.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Office of the Secretary of the University">Office of the Secretary of the University</a></li> 
-            <li class="leaf"><a href="http://senate.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Rutgers University Senate">Rutgers University Senate</a></li> 
-            <li class="last leaf"><a href="/about/leadership-governance" title="More about leadership and governance">More about leadership and governance</a></li> 
-           </ul> 
-          </div> 
-         </div> 
-        </section> 
-       </div> 
-      </div>
-      <div class="grid-3 region region-postscript-third" id="region-postscript-third"> 
-       <div class="region-inner region-postscript-third-inner"> 
-        <section class="block block-menu block-menu-systemwide-offices block-menu-menu-systemwide-offices odd" id="block-menu-menu-systemwide-offices"> 
-         <div class="block-inner clearfix"> 
-          <h2 class="block-title">Universitywide Offices</h2> 
-          <div class="content clearfix"> 
-           <ul class="menu">
-            <li class="first leaf"><a href="http://academicaffairs.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Academic Affairs">Academic Affairs</a></li> 
-            <li class="leaf"><a href="http://publicsafety.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Administration and Public Safety">Administration and Public Safety</a></li> 
-            <li class="leaf"><a href="http://externalaffairs.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="External Affairs">External Affairs</a></li> 
-            <li class="leaf"><a href="http://orsp.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="Research and Sponsored Programs">Research and Sponsored Programs</a></li> 
-            <li class="leaf"><a href="http://uhr.rutgers.edu?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="University Human Resources">University Human Resources</a></li> 
-            <li class="leaf"><a href="http://www.libraries.rutgers.edu/?utm_source=uwide_links&amp;amp;utm_medium=web&amp;amp;utm_campaign=uwide_links" title="University Libraries">University Libraries</a></li> 
-            <li class="last leaf"><a href="/about/universitywide-offices" title="More systemwide offices">More universitywide offices</a></li> 
-           </ul> 
-          </div> 
-         </div> 
-        </section> 
-       </div> 
-      </div>
-      <div class="grid-3 region region-postscript-fourth" id="region-postscript-fourth"> 
-       <div class="region-inner region-postscript-fourth-inner"> 
-        <section class="block block-nb-custom block-connect-with-rugers block-nb-custom-connect-with-rugers odd" id="block-nb-custom-connect-with-rugers"> 
-         <div class="block-inner clearfix"> 
-          <h2 class="block-title">Connect with Rutgers</h2> 
-          <div class="content clearfix"> 
-           <div id="social-links-icons">
-            <a class="facebook" title="Facebook" href="https://www.facebook.com/RutgersU">Facebook</a>
-            <a class="twitter" title="Twitter" href="https://twitter.com/RutgersU">Twitter</a>
-            <a class="youtube" title="YouTube" href="http://www.youtube.com/Rutgers">YouTube</a>
-            <a class="linkedin" title="LinkedIn" href="http://www.linkedin.com/groups/Rutgers-Alumni-37533/about">LinkedIn</a>
-            <a class="pinterest" title="Pinterest" href="http://pinterest.com/rutgersu">Pinterest</a>
-            <a class="instagram" title="Instagram" href="https://instagram.com/RutgersU">Instagram</a>
-           </div>
-           <div id="social-directory">
-            <a href="http://newbrunswick.rutgers.edu/news/rutgers-social-media-directory" title="Social Media Directory">Social Media Directory</a>
-           </div> 
-          </div> 
-         </div> 
-        </section> 
-       </div> 
-      </div> 
-     </div> 
-    </div>
-   </section> 
-   <footer id="section-footer" class="section section-footer"> 
-    <div id="zone-footer-second-wrapper" class="zone-wrapper zone-footer-second-wrapper clearfix"> 
-     <div id="zone-footer-second" class="zone zone-footer-second clearfix container-12"> 
-      <div class="grid-12 region region-footer-second" id="region-footer-second"> 
-       <div class="region-inner region-footer-second-inner"> 
-        <div class="block block-ru-footer block-footer-text block-ru-footer-footer-text odd block-without-title" id="block-ru-footer-footer-text"> 
-         <div class="block-inner clearfix"> 
-          <div class="content clearfix"> 
-           <p> <a href="http://www.rutgers.edu/site-resource/copyright-information">Copyright &copy;2015</a>, <strong>Rutgers, The State University of New Jersey</strong>, an equal opportunity, affirmative action institution. All rights reserved.<br /> <a href="http://ucm.rutgers.edu/about/ru-info">Contact RU-info</a> at 732-445-info (4636) | Questions? <a href="mailto:colhenry@rci.rutgers.edu">Ask Colonel Henry</a> or text us at 732-662-2664. | <a href="http://ucm.rutgers.edu/webresponse/">University Webmaster</a> | <a href="http://www.rutgers.edu/sitemap">Site Map</a> </p> 
-          </div> 
-         </div> 
-        </div> 
-       </div> 
-      </div> 
-     </div> 
-    </div>
-   </footer> 
-  </div>  
+ <body> 
+  <!-- start fastlane_homepage/common/header.jsp --> 
+  <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+   <tbody>
+    <tr> 
+     <td width="20%" rowspan="2" valign="top">
+      <!-- logo --><a href="/"><img src="/images/fl-home-logo.gif" width="207" height="98" alt="FastLane Home - www.fastlane.nsf.gov" border="0" /></a><a href="#content"><img src="/images/spacer.gif" height="1" width="1" border="0" alt="Skip to Content" /></a></td> 
+     <td height="25" colspan="3" align="right" valign="top" class="topmenu"> <a href="http://www.nsf.gov/">NSF Home</a> | <a href="/note_user/fastlane_news.jsp">News</a> | <a href="/jsp/homepage/sitemap.jsp">Site Map</a> | 
+      <!-- <a href="/jsp/homepage/flhelp.jsp">FastLane Help</a> | --> <a href="/NSFHelp/flashhelp/fastlane/FastLane_Help/fastlane_help.htm#welcome_to_the_fastlane_help_system.htm" target="_blank" onclick="mainhelp=window.open(this.href, 'mainhelp', 'toolbar=1, location=1, directories=1, status=1, menubar=1, scrollbars=1, resizable=1, width=900, height=800, left=12, top=12');mainhelp.focus(); return false;">FastLane Help</a> | <a href="/GGHelp/webhelp/grants/grants_gov.htm" target="_blank">Grants.gov Help</a> | <a href="/contacts/contact_fl.jsp" target="_blank" onclick="maincmnt=window.open(this.href, 'maincmnt', 'toolbar=1, location=1, directories=1, status=1, menubar=1, scrollbars=1, resizable=1, width=700, height=700, left=12, top=12');maincmnt.focus(); return false;">Contact Us</a><br /> </td> 
+     <td width="2%"><img src="/images/spacer.gif" width="15" height="1" alt="" border="0" /></td> 
+    </tr> 
+    <tr> 
+     <td width="40%" valign="top"> <p class="txtgreylg"> <strong>FastLane</strong> is an interactive real-time system used to conduct NSF business over the Internet. FastLane is for official NSF use only. <a href="/NSFHelp/flashhelp/fastlane/FastLane_Help/fastlane_help.htm#introduction_to_fastlane.htm">More About FastLane...</a><br /><img src="/images/spacer.gif" width="200" height="1" border="0" alt="" /> </p> </td> 
+     <td width="3%"><img src="/images/spacer.gif" width="15" height="1" alt="" border="0" /></td> 
+     <td width="35%" align="RIGHT" valign="top"> 
+      <!-- help nest --> 
+      <table cellspacing="0" cellpadding="0" border="0"> 
+       <tbody>
+        <tr> 
+         <td valign="top"><img src="/images/fl-home-support1.gif" width="88" height="61" alt="FastLane User Support" border="0" /></td> 
+         <td align="center" nowrap="" background="/images/fl-home-support-bak.gif"> <span class="fixedsm">(7 AM to 9 PM Eastern Time  M-F)</span><br /> <span class="fixed2">1-800-673-6188</span><br /> <span class="fixed">FastLane Availability (recording):<br /> <strong>1-800-437-7408</strong></span> </td> 
+         <td valign="top"><img src="/images/fl-home-support2.gif" width="11" height="61" alt="" border="0" /></td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+     <td width="2%"><img src="/images/spacer.gif" width="15" height="1" alt="" border="0" /></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- navigation --> 
+  <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+   <tbody>
+    <tr> 
+     <td valign="top" height="6"><img src="/images/spacer.gif" width="1" height="6" alt="" border="0" /></td> 
+    </tr> 
+    <tr> 
+     <td height="22" align="center" valign="top" nowrap="" background="/images/barmenu1.gif"> <a href="/jsp/homepage/proposals.jsp" class="barmenu1">Proposals, Awards and Status</a> <img src="/images/barmenu-div1.gif" width="16" height="22" alt="" align="absmiddle" /> <a href="/jsp/homepage/prop_review.jsp" class="barmenu1">Proposal Review</a> <img src="/images/barmenu-div1.gif" width="16" height="22" alt="" align="absmiddle" /> <a href="https://meetings.nsf.gov/jsp/homepage/panelreview.jsp" class="barmenu1">Panelist Functions</a> <img src="/images/barmenu-div1.gif" width="16" height="22" alt="" align="absmiddle" /> <a href="" class="barmenu1"></a> <a href="/researchadmin/" class="barmenu1">Research Administration</a> <img src="/images/barmenu-div1.gif" width="16" height="22" alt="" align="absmiddle" /> <a href="/jsp/homepage/faulogin.jsp" class="barmenu1">Financial Functions</a> </td> 
+    </tr> 
+    <tr> 
+     <td valign="top" height="1"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0" /></td> 
+    </tr> 
+    <tr> 
+     <td height="22" align="center" valign="top" nowrap="" background="/images/barmenu2.gif"> <a href="/honawards/" class="barmenu1">Honorary Awards</a> <img src="/images/barmenu-div2.gif" width="16" height="22" alt="" border="0" align="ABSMIDDLE" /> <a href="/grfp/" class="barmenu1">Graduate Research Fellowship Program</a> <img src="/images/barmenu-div2.gif" width="16" height="22" alt="" border="0" align="ABSMIDDLE" /> <a href="/jsp/homepage/postdoc_fel.jsp" class="barmenu1">Postdoctoral Fellowships and Other Programs</a> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- end fastlane_homepage/common/header.jsp --> 
+  <table cellspacing="0" cellpadding="0" width="100%" border="0"> 
+   <tbody>
+    <tr> 
+     <td valign="top" width="2%"><img height="1" alt="" src="/images/spacer.gif" width="30" border="0" /></td> 
+     <td valign="top" width="20%"><br /><br /> 
+      <!-- SideNavMenuTable.getRegularMenu start --> 
+      <table width="100%" cellspacing="0" cellpadding="2" border="0"> 
+       <tbody>
+        <tr> 
+         <td colspan="2" valign="top" class="navtitle">Quick Link<br /> </td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td valign="top"><img src="/images/arrow-grn.gif" width="13" height="9" alt="" border="0" /></td> 
+         <td valign="top"> <a href="/jsp/homepage/anthropogenic_events.jsp" class="itembg">Special Exceptions to the NSF Deadline Date Policy Due to Natural or Anthropogenic Events</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td valign="top"><img src="/images/arrow-grn.gif" width="13" height="9" alt="" border="0" /></td> 
+         <td valign="top"> <a href="/a0/about/registration.htm" class="itembg">Registration Information</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td valign="top"><img src="/images/arrow-grn.gif" width="13" height="9" alt="" border="0" /></td> 
+         <td valign="top"> <a href="/jsp/homepage/awards_funds.jsp" class="itembg">Award Search and Funding Trends</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td valign="top"><img src="/images/arrow-grn.gif" width="13" height="9" alt="" border="0" /></td> 
+         <td valign="top"> <a href=" /NSFHelp/flashhelp/fastlane/FastLane_Help/fastlane_help.htm#fastlane_faqs_introduction.htm" class="itembg" target="_blank" onclick="navbarlink=window.open(this.href, 'navbarlink', 'toolbar=1, location=1, directories=1, status=1, menubar=1, scrollbars=1, resizable=1, width=700, height=700, left=12, top=12');navbarlink.focus(); return false;">FastLane FAQs (Opens new Browser Window)</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td valign="top"><img src="/images/arrow-grn.gif" width="13" height="9" alt="" border="0" /></td> 
+         <td valign="top"> <a href="/GGHelp/webhelp/grants/grants_gov.htm" class="itembg" target="_blank" onclick="navbarlink=window.open(this.href, 'navbarlink', 'toolbar=1, location=1, directories=1, status=1, menubar=1, scrollbars=1, resizable=1, width=700, height=700, left=12, top=12');navbarlink.focus(); return false;">Grants.gov FAQ (Opens new Browser Window)</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+        <tr> 
+         <td valign="top"><img src="/images/arrow-grn.gif" width="13" height="9" alt="" border="0" /></td> 
+         <td valign="top"> <a href="/jsp/homepage/demo_site.html" class="itembg">DEMONSTRATION SITE</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" valign="top" background="/images/rule-h-gold.gif" class="itembg">&nbsp;</td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!-- SideNavMenuTable.getRegularMenu end --> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" summary="Table Used To Format the Side Nav"> 
+       <tbody>
+        <tr> 
+         <td valign="top"></td> 
+         <td valign="top" class="advy-bold"> System Use Notification </td> 
+        </tr> 
+        <tr> 
+         <td valign="top"></td> 
+         <td valign="top" class="submapsm"> <br /> 
+          <div class="submapsm-scrollbox">
+            This is a National Science Foundation (NSF) Federal Government computer system. Any system activity may be monitored and any information stored within the system may be retrieved and used by authorized personnel for law enforcement, management, routine system operations, or other purposes. By using this computer system, you are consenting to such monitoring and information retrieval and use. 
+           <br /> 
+           <br /> Unauthorized use of the system, including disclosure of information covered by the Privacy Act or other sensitive information, or attempts to defeat or circumvent security features, is prohibited and could result in disciplinary action, civil and/or criminal penalties. Users should be aware that they have no expectation of privacy when using the NSF-provided computer system (including any removable media used in conjunction with the system), accessing the Internet, or using electronic mail systems. 
+           <br /> 
+           <br /> All information maintained within or retrievable through the NSF computer system, including electronic mail files, may be reviewed and retrieved by the Department of Homeland Security; NSF officials who have a legitimate reason to do so when authorized by the Director or Deputy Director; or by the Inspector General. 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> </td>  
+     <td valign="top" width="2%" rowspan="1"><img height="397" alt="" src="/images/main-tab_01a.gif" width="41" border="0" /></td> 
+     <td valign="top" colspan="2"> <a name="content"></a> 
+      <table cellspacing="0" cellpadding="0" width="100%" border="0"> 
+       <tbody>
+        <tr> 
+         <td valign="top" colspan="3" background="/images/main-tab_02.gif" height="50"> <br /><br />
+          <!-- Module title --><span class="h3"><span class="h-drop">A</span>dvisories<br /></span><br /><span class="underh4"> </span> </td> 
+        </tr> 
+        <tr> 
+         <td valign="top" rowspan="2" width="2%"><img height="1" alt="" src="/images/spacer.gif" width="18" border="0" /></td> 
+         <td valign="top" width="*"> 
+          <!-- start main content --> 
+          <!-- start fastlane_homepage/jsp/homepage/includes/homepage_constants.jspf --> 
+          <!-- contains string values to show on homepage to include table elements --> 
+          <!-- end fastlane_homepage/jsp/homepage/includes/homepage_constants.jspf --> 
+          <!-- start fastlane_homepage/jsp/homepage/includes/advisory_copy.jspf --> 
+          <table width="550" border="0" cellpadding="0" cellspacing="0">
+           <tbody>
+            <tr> 
+             <td class="center" colspan="3"> <a href="fastlane.jsp;jsessionid=8bd0e326b6aa8030026dec74c78c:Dqk3?t=0"><font color="#003366">Back To FastLane Home</font></a> </td> 
+            </tr> 
+            <tr>
+             <td colspan="3"><img src="images/pixel.gif" border="0" width="10" height="10" alt="" /></td>
+            </tr>
+            <tr>
+             <td colspan="3"><img src="images/advisories_line.gif" border="0" width="550" height="1" alt="" /></td>
+            </tr>
+            <tr>
+             <td colspan="3"><img src="images/pixel.gif" border="0" width="10" height="10" alt="" /></td>
+            </tr>
+            <tr> 
+             <td width="20"> <img src="/images/pixel.gif" height="22" align="top" width="20" border="0" alt="" /> </td> 
+             <td width="*"> <h3 align="center">Attention: Some proposers are experiencing issues with incorrect warning messages when creating and submitting proposals in FastLane. Read on to learn more.</h3> <p class="advy">Some proposers are receiving incorrect warning messages when creating and submitting proposals in FastLane. The warning message states that the cover sheet 'requested amount' is not matching the 'total budget amount' even though it does. The warning specifically states: Requested Amount on the 'Remainder of the Cover Sheet' and the Total Amount of Request on the Budget Do Not Match. To correct this, please update the budget and the new requested amount will be reflected on the 'Remainder of the Cover Sheet.' </p> <p class="advy"> NSF is working to fix this issue and we appreciate your patience. In the meantime, if you receive this warning and have checked to ensure the totals on your proposal match, please continue and submit your proposal. Warning messages do not prevent institutions from submitting proposals. If you have additional questions or concerns, please contact the FastLane Help Desk at 1-800-673-6188. We apologize for the inconvenience. </p> </td> 
+             <td width="20"> <img src="/images/pixel.gif" height="22" align="top" width="20" border="0" alt="" /> </td> 
+            </tr> 
+            <tr>
+             <td colspan="3"><img src="images/pixel.gif" border="0" width="10" height="10" alt="" /></td>
+            </tr>
+            <tr>
+             <td colspan="3"><img src="images/advisories_line.gif" border="0" width="550" height="1" alt="" /></td>
+            </tr>
+            <tr>
+             <td colspan="3"><img src="images/pixel.gif" border="0" width="10" height="10" alt="" /></td>
+            </tr>
+            <tr> 
+             <td class="center" colspan="3"> <a href="fastlane.jsp;jsessionid=8bd0e326b6aa8030026dec74c78c:Dqk3?t=0"><font color="#003366">Back To FastLane Home</font></a> </td> 
+            </tr> 
+            <tr>
+             <td colspan="3"><img src="images/pixel.gif" border="0" width="10" height="10" alt="" /></td>
+            </tr>
+           </tbody>
+          </table> 
+          <!-- end fastlane_homepage/jsp/homepage/includes/advisory_copy.jspf --> 
+          <!-- end main content --> </td> 
+         <td valign="top" align="right"> 
+          <!-- start login section --> <br /> 
+          <!-- end login section --> </td> 
+        </tr> 
+        <tr> 
+         <td colspan="2"> 
+          <!-- start options --> 
+          <!-- start options --> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+     <td width="2%" valign="top"><img height="1" alt="" src="/images/spacer.gif" width="30" border="0" /></td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- footer --> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+   <tbody>
+    <tr>
+     <td height="25" colspan="2"><img src="/images/spacer.gif" width="1" height="25" alt="" border="0" /></td>
+    </tr> 
+    <tr>
+     <td colspan="2" background="/images/pix-ltblue.gif" class="tabblue"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0" /></td>
+    </tr> 
+    <tr>
+     <td width="95%" height="80" align="center" valign="top" background="/images/tab-fill.gif"><br /> <span class="nsf">National Science Foundation</span><br /> <span class="nsfaddress">4201 Wilson Boulevard, Arlington, Virginia 22230, USA<br />Tel: 703-292-5111, FIRS: 800-877-8339 | TDD: 703-292-5090</span></td> 
+     <td width="5%" nowrap="" valign="top" background="/images/tab-fill.gif"><br /><a href="/NSFHelp/flashhelp/fastlane/FastLane_Help/fastlane_help.htm#nsf_security_and_privacy_introduction.htm" class="nsf">Privacy and Security</a>&nbsp;&nbsp;</td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <!-- end footer -->   
  </body>
 </html>

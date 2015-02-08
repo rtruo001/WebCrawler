@@ -1,403 +1,632 @@
-<!DOCTYPE html>
-<!--[if IE 7]> <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]> <html class="lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js desktop lang=" en"="">
- <!--<![endif]-->
- <head> 
-  <meta charset="utf-8" /> 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
-  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0" /> 
-  <title>UCLA</title> 
-  <meta name="description" content="UCLA (University of California, Los Angeles) is the largest UC campus in terms of enrollment, and one of the few public research universities located in a major city." /> 
-  <meta name="keywords" content="UCLA, University of California Los Angeles, UCLA Bruins" /> 
-  <meta name="google-site-verification" content="QS5gayPg38zC46YsAx4a9c3v4qTBkn-R69g90pQgpB0" /> 
-  <meta property="twitter:account_id" content="18918483" /> 
-  <link rel="shortcut icon" href="/img/favicon.ico" /> 
-  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png" /> 
-  <link rel="stylesheet" href="/css/emergency-template.css" /> 
-  <link rel="stylesheet" href="/css/main.css" /> 
-  <link rel="stylesheet" href="/css/responsive.css" /> 
-  <link rel="stylesheet" href="/css/print.css" media="print" /> 
-  <!--LET THERE BE TAKE OVER CSS--> 
-  <link rel="stylesheet" href="/css/centennial-takeover.css" /> 
-  <script src="/js/modernizr.js"></script> 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
-  <script src="/js/analytics.js"></script> 
-  <!--[if lte IE 6]><script src="/js/ie6/ie6-upgrade.min.js"></script><![endif]--> 
-  <!--IMAGE CACHE--> 
- </head> 
- <body> 
-  <!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: UCLA.edu
-URL of the webpage where the tag is expected to be placed: http://www.ucla.edu/
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 05/13/2014
---> 
-  <script type="text/javascript">
-var axel = Math.random() + "";
-var a = axel * 10000000000000;
-document.write('<iframe src="http://4393665.fls.doubleclick.net/activityi;src=4393665;type=Prima0;cat=UCLAe0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+ <head profile="http://gmpg.org/xfn/11"> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" /> 
+  <title>TRUSTe Blog &raquo; Powering Trust</title> 
+  <link rel="pingback" href="http://www.truste.com/blog/xmlrpc.php" /> 
+  <!-- BEGIN Metadata added by Add-Meta-Tags WordPress plugin
+Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plugin/ --> 
+  <meta name="description" content="Powering Trust" /> 
+  <meta name="keywords" content="advertising privacy, all, behavioral advertising, capitol hill news, compliance, engineering, eu, events, guest post, meet truste, mobile, privacy 365, privacy tips, product, tracking protection" /> 
+  <!-- END Metadata added by Add-Meta-Tags WordPress plugin --> 
+  <link rel="alternate" type="application/rss+xml" title="TRUSTe Blog &raquo; Feed" href="http://www.truste.com/blog/feed/" /> 
+  <link rel="alternate" type="application/rss+xml" title="TRUSTe Blog &raquo; Comments Feed" href="http://www.truste.com/blog/comments/feed/" /> 
+  <script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1.3 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-4146259-5']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script> 
+  <link rel="stylesheet" id="slb_core-css" href="http://www.truste.com/blog/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.3.1" type="text/css" media="all" /> 
+  <link rel="stylesheet" id="graphene-stylesheet-css" href="http://www.truste.com/blog/wp-content/themes/graphene/style.css?ver=3.2.1" type="text/css" media="screen" /> 
+  <script type="text/javascript" src="http://www.truste.com/blog/wp-includes/js/l10n.js?ver=20101110"></script> 
+  <script type="text/javascript" src="http://www.truste.com/blog/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script> 
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.truste.com/blog/xmlrpc.php?rsd" /> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.truste.com/blog/wp-includes/wlwmanifest.xml" /> 
+  <link rel="index" title="TRUSTe Blog" href="http://www.truste.com/blog/" /> 
+  <meta name="generator" content="WordPress 3.2.1" /> 
+  <meta property="fb:app_id" content="194175557319325" /> 
+  <script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+  <script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">stLight.options({publisher:'4c7a8402-5de7-49b2-ae4f-ba8d73dd6ff8'});var st_type='wordpress3.2.1';</script> 
+  <style type="text/css">		
+						
+						
+						
+				
+				
+				.entry-content, .sidebar, .comment-entry{font-size:11pt;}
+			
+						
+						
+						#header_img_link{width:960px;height:198px;}
+				
+		
+				
+						
+		    </style> 
+  <!--[if lte IE 8]>
+      <style type="text/css" media="screen">
+      	#footer, div.sidebar-wrap, .block-button, .featured_slider, #slider_root, #comments li.bypostauthor, #nav li ul, .pie{behavior: url(http://www.truste.com/blog/wp-content/themes/graphene/js/PIE.php);}
+        .featured_slider{margin-top:0 !important;}
+      </style>
+    <![endif]--> 
+ </head>
+ <body class="home blog two-col-left two-columns"> 
+  <div id="fb-root"></div> 
+  <script>
+window.fbAsyncInit = function() {
+FB.init({appId: 194175557319325, status: true, cookie: true,
+xfbml: true});
+};
+(function() {
+var e = document.createElement('script'); e.async = true;
+e.src = document.location.protocol +
+'//connect.facebook.net/en_US/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
 </script> 
-  <noscript> 
-   <iframe src="http://4393665.fls.doubleclick.net/activityi;src=4393665;type=Prima0;cat=UCLAe0;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
-  </noscript> 
-  <!-- End of DoubleClick Floodlight Tag: Please do not remove --> 
-  <img src="https://ads.yahoo.com/pixel?id=2485709&amp;t=2" width="1" height="1" /> 
-  <script type="text/javascript" src="http://a.adtpix.com/px/?id=104885"></script> 
-  <div id="ie6Warning"></div> 
-  <!-- Page Wrap --> 
-  <div id="page-wrap"> 
-   <!-- Skip Nav --> 
-   <ul class="hide" id="skip-nav"> 
-    <li><a href="#audience-nav">Skip to Navigation</a></li> 
-    <li><a href="#searchbox">Skip to Search</a></li> 
-    <li><a href="#main-content">Skip to Main Content</a></li> 
-   </ul> 
-   <!-- End Skip Nav --> 
-   <!-- Top Bar --> 
-   <div id="top-bar"> 
-    <div id="top-bar-content"> 
-     <!-- Weather --> 
-     <div id="weather"> 
-      <a href="http://www.atmos.ucla.edu/weather/quick-look"> <img src="/img/weather/sun.png" alt="sun" /> <p>53&deg;<span> and Sunny</span></p> </a> 
-     </div> 
-     <!-- End Weather --> 
-     <!-- Audience Nav --> 
-     <div id="top-bar-nav" role="navigation">
-      <ul id="audience-nav"> 
-       <li><a href="/students/prospective-students">Prospective Students</a></li>
-       <li><a href="/students/current-students">Current Students</a></li>
-       <li><a href="/faculty">Faculty</a></li>
-       <li><a href="/staff">Staff</a></li>
-       <li><a href="/alumni">Alumni</a></li>
-       <li><a href="/parents-and-families">Parents &amp; Families</a></li> 
-      </ul>
-     </div> 
-     <!-- End Audience Nav --> 
+  <div id="social_tab"> 
+   <a alt="Go to truste.com" id="social_tab_truste" href="http://www.truste.com" target="_blank"><img src="/blog/wp-content/themes/graphene/images/blank.gif" /></a> 
+   <a alt="TRUSTe Twitter" id="social_tab_twitter" href="http://twitter.com/#!/TRUSTe" target="_blank"><img src="/blog/wp-content/themes/graphene/images/blank.gif" /></a> 
+   <a alt="TRUSTe Facebook" id="social_tab_fb" href="http://www.facebook.com/TRUSTe.Privacy" target="_blank"><img src="/blog/wp-content/themes/graphene/images/blank.gif" /></a> 
+   <a alt="TRUSTe blog RSS feed" id="social_tab_linkedin" href="http://www.linkedin.com/company/21121" target="_blank"><img src="/blog/wp-content/themes/graphene/images/blank.gif" /></a> 
+   <a alt="TRUSTe blog RSS feed" id="social_tab_google" href="https://plus.google.com/+Truste" target="_blank"><img src="/blog/wp-content/themes/graphene/images/blank.gif" /></a> 
+   <a alt="TRUSTe blog RSS feed" id="social_tab_rss" href="http://www.truste.com/blog/feed/rss/" target="_blank"><img src="/blog/wp-content/themes/graphene/images/blank.gif" /></a> 
+   <img src="/blog/wp-content/themes/graphene/images/blog_social.png" /> 
+  </div> 
+  <div class="bg-gradient"> 
+   <div id="container"> 
+    <div id="header" style="background-image:url(http://www.truste.com/blog/wp-content/themes/graphene/images/headers/flow.jpg);"> 
+     <a href="http://www.truste.com/blog" id="header_img_link" title="Go back to the front page">&nbsp;</a> 
+     <!--<h1  style="color:#000000;" class="header_title"><a  style="color:#000000;" href="http://www.truste.com/blog" title="Go back to the front page">TRUSTe Blog</a></h1>
+        <h2  style="color:#000000;" class="header_desc">Powering Trust</h2> --> 
     </div> 
-   </div> 
-   <!-- End Top Bar -->
-   <span id="print-logo"><img src="/img/logo-print.gif" alt="UCLA logo" /></span> 
-   <!-- Header --> 
-   <div id="header" role="banner"> 
-    <!-- Header Content --> 
-    <div id="header-content"> 
-     <!-- UCLA --> 
-     <h1 id="logo"><a href="/">UCLA</a></h1> 
-     <!-- Responsive Buttons --> 
-     <div id="mobile-buttons" role="navigation"> 
-      <a href="http://m.ucla.edu/?utm_source=ucla.edu%2Bresponsive%2Bhomepage&amp;utm_medium=Apps%2Bbutton&amp;utm_campaign=UCLA%2Bmobile%2Breferral%2Bfrom%2Bgateway" id="mobile">Apps<span></span></a> 
-      <a href="#" id="nav-control">Menu<span></span></a> 
-     </div> 
-     <div id="header-nav"> 
-      <!-- Search Box --> 
-      <div id="searchbox"> 
-       <form id="searchform" name="searchform" role="search" method="get" action="#"> 
-        <input type="hidden" name="site" value="UCLA" /> 
-        <input type="hidden" name="client" value="UCLA_Communication" /> 
-        <input type="hidden" name="proxystylesheet" value="UCLA_Communication" /> 
-        <input type="hidden" name="output" value="xml_no_dtd" /> 
-        <input type="hidden" name="proxyreload" value="1" /> 
-        <input id="searchbox-input" class="google-search searchbox-background" title="Search UCLA.edu" name="q" type="text" size="20" maxlength="255" value="" /> 
-        <button id="searchbox-btn" type="submit"></button> 
+    <div id="nav"> 
+     <div id="header-menu-wrap"> 
+      <ul id="header-menu" class="menu clearfix default-menu"> 
+       <li class="current_page_item current-menu-item"> <a href="http://www.truste.com/blog"> <strong>Home</strong> </a> </li> 
+       <li class="page_item page-item-2209"><a href="http://www.truste.com/blog/subscribe-to-our-blog/" title="Subscribe to our Blog!"><strong>Subscribe to our Blog!</strong></a></li> 
+      </ul> 
+      <div id="top_search"> 
+       <form id="searchform" class="searchform" method="get" action="http://www.truste.com/blog"> 
+        <p class="clearfix default_searchform"> <input type="text" name="s" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" value="Search" /> <button type="submit"><span>Search</span></button> </p> 
        </form> 
       </div> 
-      <!-- Main Nav --> 
-      <div id="main-nav-wrapper" role="navigation">
-       <ul id="main-nav">
-        <li><a href="/about" class="dropdown-link">ABOUT</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/about/">Overview</a></li>
-            <li><a href="/about/mission-and-values">Mission &amp; Values</a></li>
-            <li><a href="/about/facts-and-figures">Facts &amp; Figures</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/about/awards-and-honors">Awards &amp; Honors</a></li>
-            <li><a href="/about/history">History</a></li>
-            <li><a href="/about/impact-and-accomplishments">Impact &amp; Accomplishments</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/about/iconic-and-influential-alumni">Iconic &amp; Influential Alumni</a></li>
-            <li><a href="/about/rankings">Rankings</a></li>
-            <li><a href="/about/centers-and-institutes">Centers &amp; Institutes</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/about/leadership">Leadership</a></li>
-            <li><a href="/about/careers">Careers</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/academics" class="dropdown-link">ACADEMICS</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/academics/">Overview</a></li>
-            <li><a href="/academics/undergraduate-education">Undergraduate Education</a></li>
-            <li><a href="/academics/graduate-and-professional-education">Graduate &amp; Professional Education</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/academics/continuing-education">Continuing Education</a></li>
-            <li><a href="/academics/academic-opportunities">Academic Opportunities</a></li>
-            <li><a href="/academics/faculty">Faculty</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/academics/departments-and-programs">Departments &amp; Programs</a></li>
-            <li><a href="/academics/libraries">Libraries</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/admission" class="dropdown-link">ADMISSION</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/admission/">Admission Overview</a></li>
-            <li><a href="/admission/undergraduate-admission">Undergraduate Admission</a></li>
-            <li><a href="/admission/graduate-admission">Graduate Admission</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/admission/extension-enrollment">Extension Enrollment</a></li>
-            <li><a href="/admission/international-admission">International Admission</a></li>
-            <li><a href="/admission/transfer-admission">Transfer Admission</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/admission/affordability">Affordability &amp; Financial Aid</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/ucla-in-the-community" class="dropdown-link">UCLA IN THE COMMUNITY</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/ucla-in-the-community/">Overview</a></li>
-            <li><a href="/ucla-in-the-community/community-programs-and-partnerships">Community Programs &amp; Partnerships</a></li>
-            <li><a href="/ucla-in-the-community/k-12-education-programs-and-resources">K-12 Education Programs &amp; Resources</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/ucla-in-the-community/academic-programs">Academic Programs</a></li>
-            <li><a href="/ucla-in-the-community/health-care">Health Care</a></li>
-            <li><a href="/ucla-in-the-community/arts-and-culture">Arts &amp; Culture</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/the-arts" class="dropdown-link">THE ARTS</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/the-arts/">Arts Overview</a></li>
-            <li><a href="/the-arts/school-of-the-arts-and-architecture">School of the Arts and Architecture</a></li>
-            <li><a href="/the-arts/school-of-theater-film-and-television">School of Theater, Film and Television</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/the-arts/performing-arts">Performing Arts</a></li>
-            <li><a href="/the-arts/museums">Museums</a></li>
-            <li><a href="/the-arts/arts-in-the-community">Arts In The Community</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/campus-life" class="dropdown-link">CAMPUS LIFE</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/campus-life/">Overview</a></li>
-            <li><a href="/campus-life/values">Values</a></li>
-            <li><a href="/campus-life/housing-and-dining">Housing &amp; Dining</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/campus-life/la-lifestyle">LA Lifestyle</a></li>
-            <li><a href="/campus-life/health-and-safety">Health &amp; Safety</a></li>
-            <li><a href="/campus-life/clubs-organizations-and-recreation">Clubs, Organizations &amp; Recreation</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/campus-life/student-support">Student Support</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/health-system" class="dropdown-link">HEALTH SYSTEM</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/health-system/">Overview</a></li>
-            <li><a href="/health-system/for-patients">For Patients</a></li>
-            <li><a href="/health-system/for-healthcare-professionals">For Healthcare Professionals</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/health-system/education">Education</a></li>
-            <li><a href="/health-system/continuing-education">Continuing Education</a></li>
-            <li><a href="/health-system/giving-back-to-ucla">Giving Back to UCLA</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/research" class="dropdown-link">RESEARCH</a>
-         <ul class="dropdown-wrapper" role="region" aria-live="polite"> 
-          <li>
-           <ul class="nav-column">
-            <li><a href="/research/">Overview</a></li>
-            <li><a href="/research/opportunities-for-partnerships">Opportunities For Partnerships</a></li>
-            <li><a href="/research/undergraduate-research">Undergraduate Research</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/research/graduate-research">Graduate Research</a></li>
-            <li><a href="/research/research-centers-and-institutes">Research Centers &amp; Institutes</a></li>
-            <li><a href="/research/libraries">Libraries</a></li>
-           </ul>
-           <ul class="nav-column">
-            <li><a href="/research/administration-overview">Administration Overview</a></li>
-           </ul><a href="" class="close">Close (X)</a> </li> 
-         </ul> </li> 
-        <li><a href="/athletics">ATHLETICS</a></li> 
-       </ul>
-       <div id="dropdown-spacer"></div>
+     </div> 
+     <div class="menu-bottom-shadow"></div> 
+    </div> 
+    <div id="content" class="clearfix hfeed"> 
+     <div id="content-main" class="clearfix"> 
+      <div class="featured_slider"> 
+       <div id="slider_root"> 
+        <div class="slider_items"> 
+         <div class="slider_post clearfix" id="slider-post-6761"> 
+          <div class="sliderpost_featured_image"> 
+           <img width="127" height="150" src="http://www.truste.com/blog/wp-content/uploads/CasualConnect1.jpg" class="attachment-thumbnail wp-post-image" alt="CasualConnect1" title="CasualConnect1" /> 
+          </div> 
+          <div class="slider-entry-wrap"> 
+           <div class="slider-content-wrap"> 
+            <h2 class="slider_post_title"><a href="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/">Kids’ Privacy – It’s All About Respect!</a></h2> 
+            <div class="slider_post_entry"> 
+             <p>By Eleanor Treharne-Jones, CIPP/E, Director, EMEA &amp; Global Communications In the U.S., recent revisions to Children’s Online Privacy Protection Act (COPPA), and legal action by the Federal Trade Commission have brought renewed attention to the issue of children’s online privacy. In the EU, changes proposed in the draft Data Protection Regulation addressing the protection of … </p> 
+             <p><span class="st_fblike_buttons socialIcon" st_title="Kids’ Privacy – It’s All About Respect!" st_url="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/" displaytext="share"></span><span class="st_twitter_buttons socialIcon" st_title="Kids’ Privacy – It’s All About Respect!" st_url="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/" displaytext="share"></span><span class="st_plusone_buttons socialIcon" st_title="Kids’ Privacy – It’s All About Respect!" st_url="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/" displaytext="share"></span><span class="st_linkedin_buttons socialIcon" st_title="Kids’ Privacy – It’s All About Respect!" st_url="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/" displaytext="share"></span></p> 
+             <a class="block-button" href="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/">View full post</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="slider_post clearfix" id="slider-post-6733"> 
+          <div class="sliderpost_featured_image"> 
+           <img width="150" height="90" src="http://www.truste.com/blog/wp-content/uploads/dave_blog.jpg" class="attachment-thumbnail wp-post-image" alt="dave_blog" title="dave_blog" /> 
+          </div> 
+          <div class="slider-entry-wrap"> 
+           <div class="slider-content-wrap"> 
+            <h2 class="slider_post_title"><a href="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/">Meet TRUSTe: Dave Deasy, VP Marketing</a></h2> 
+            <div class="slider_post_entry"> 
+             <p>Name:&nbsp;Dave Deasy Job Title:&nbsp;VP Marketing How long have you worked at TRUSTe?&nbsp;4 years Tell us about your role at TRUSTe: I head up marketing at TRUSTe.&nbsp;Our team is responsible for helping to make sure our products and services meet the needs of our clients.&nbsp;We produce a wide range of programs including Industry Summits, Educational Webinars, … </p> 
+             <p><span class="st_fblike_buttons socialIcon" st_title="Meet TRUSTe: Dave Deasy, VP Marketing" st_url="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/" displaytext="share"></span><span class="st_twitter_buttons socialIcon" st_title="Meet TRUSTe: Dave Deasy, VP Marketing" st_url="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/" displaytext="share"></span><span class="st_plusone_buttons socialIcon" st_title="Meet TRUSTe: Dave Deasy, VP Marketing" st_url="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/" displaytext="share"></span><span class="st_linkedin_buttons socialIcon" st_title="Meet TRUSTe: Dave Deasy, VP Marketing" st_url="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/" displaytext="share"></span></p> 
+             <a class="block-button" href="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/">View full post</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="slider_post clearfix" id="slider-post-6745"> 
+          <div class="sliderpost_featured_image"> 
+           <img width="150" height="94" src="http://www.truste.com/blog/wp-content/uploads/Manila_Philippines.jpg" class="attachment-thumbnail wp-post-image" alt="fort bonifacio skyscrapers manila" title="fort bonifacio skyscrapers manila" /> 
+          </div> 
+          <div class="slider-entry-wrap"> 
+           <div class="slider-content-wrap"> 
+            <h2 class="slider_post_title"><a href="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/">APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard</a></h2> 
+            <div class="slider_post_entry"> 
+             <p>After four days of intense meetings and discussions at the&nbsp;Asia Pacific Economic Cooperation’s (APEC) First Senior Officials Meeting in Subic Bay, Philippines,&nbsp;APEC Member Economies today completed work on a &nbsp;”Privacy Recognition for Processors” (PRP). The PRP is designed to help data processors demonstrate their ability to provide effective implementation of a data controller’s privacy obligations … </p> 
+             <p><span class="st_fblike_buttons socialIcon" st_title="APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard" st_url="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/" displaytext="share"></span><span class="st_twitter_buttons socialIcon" st_title="APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard" st_url="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/" displaytext="share"></span><span class="st_plusone_buttons socialIcon" st_title="APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard" st_url="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/" displaytext="share"></span><span class="st_linkedin_buttons socialIcon" st_title="APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard" st_url="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/" displaytext="share"></span></p> 
+             <a class="block-button" href="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/">View full post</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="slider_post clearfix" id="slider-post-6510"> 
+          <div class="sliderpost_featured_image"> 
+           <img width="150" height="112" src="http://www.truste.com/blog/wp-content/uploads/Privacy_PIA.jpg" class="attachment-thumbnail wp-post-image" alt="Security concept: Privacy on digital background" title="Security concept: Privacy on digital background" /> 
+          </div> 
+          <div class="slider-entry-wrap"> 
+           <div class="slider-content-wrap"> 
+            <h2 class="slider_post_title"><a href="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/">Privacy Impact Assessments: Final Steps</a></h2> 
+            <div class="slider_post_entry"> 
+             <p>This post is part 4 of a 4 part series about Privacy Impact Assessments (PIAs).&nbsp; Every day, Internet users around the globe generate nearly 2.5 quintillion bytes of data. That number will only grow as connected devices become more ubiquitous and our world becomes even more connected. With all that data, companies need to ensure … </p> 
+             <p><span class="st_fblike_buttons socialIcon" st_title="Privacy Impact Assessments: Final Steps" st_url="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/" displaytext="share"></span><span class="st_twitter_buttons socialIcon" st_title="Privacy Impact Assessments: Final Steps" st_url="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/" displaytext="share"></span><span class="st_plusone_buttons socialIcon" st_title="Privacy Impact Assessments: Final Steps" st_url="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/" displaytext="share"></span><span class="st_linkedin_buttons socialIcon" st_title="Privacy Impact Assessments: Final Steps" st_url="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/" displaytext="share"></span></p> 
+             <a class="block-button" href="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/">View full post</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="slider_post clearfix" id="slider-post-6594"> 
+          <div class="sliderpost_featured_image"> 
+           <img width="150" height="32" src="http://www.truste.com/blog/wp-content/uploads/CasualConnect.png" class="attachment-thumbnail wp-post-image" alt="CasualConnect" title="CasualConnect" /> 
+          </div> 
+          <div class="slider-entry-wrap"> 
+           <div class="slider-content-wrap"> 
+            <h2 class="slider_post_title"><a href="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/">February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!</a></h2> 
+            <div class="slider_post_entry"> 
+             <p>February 4-6 Casual Connect Conference Amsterdam TRUSTe’s Director of Global Communications, Eleanor Treharne-Jones will moderate a panel titled, “EU Data Protection Regulation Meets COPPA – Successfully Navigating Kids’ Privacy Regulations” from 1-1:50 in the Administratiezaal on the 2nd Level. Panelists will be Paul Gardner, Partner at Osborne Clark; Max Sorenson, Legal Counsel and Data Privacy … </p> 
+             <p><span class="st_fblike_buttons socialIcon" st_title="February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!" st_url="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/" displaytext="share"></span><span class="st_twitter_buttons socialIcon" st_title="February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!" st_url="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/" displaytext="share"></span><span class="st_plusone_buttons socialIcon" st_title="February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!" st_url="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/" displaytext="share"></span><span class="st_linkedin_buttons socialIcon" st_title="February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!" st_url="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/" displaytext="share"></span></p> 
+             <a class="block-button" href="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/">View full post</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="slider_nav"> 
+        <a href="#" class="active"><span>Kids’ Privacy – It’s All About Respect!</span></a> 
+        <a href="#"><span>Meet TRUSTe: Dave Deasy, VP Marketing</span></a> 
+        <a href="#"><span>APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard</span></a> 
+        <a href="#"><span>Privacy Impact Assessments: Final Steps</span></a> 
+        <a href="#"><span>February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!</span></a> 
+       </div> 
       </div> 
-      <!-- Callout Nav --> 
-      <ul id="callout-nav"> 
-       <li><a href="/visit">Visit</a></li> 
-       <li><a href="/apply">Apply</a></li> 
-       <li id="callout-nav-give-now"><a href="http://giveto.ucla.edu/?utm_campaign=Centennial+Campaign+Launch&amp;utm_source=Gateway+Takeover&amp;utm_medium=website&amp;utm_content=Give+Now+Button">Give<br />Now</a></li> 
+      <div id="post-6761" class="post-6761 post type-post status-publish format-standard hentry category-uncategorized category-events tag-casual-connect-conference tag-coppa tag-data-protection-regulation clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Feb<br /><span>06</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/" rel="bookmark" title="Permalink to Kids’ Privacy – It’s All About Respect!">Kids’ Privacy – It’s All About Respect!</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a>,</li> 
+          <li><a href="http://www.truste.com/blog/category/events/" title="View all posts in Events" rel="category tag">Events</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="127" height="150" src="http://www.truste.com/blog/wp-content/uploads/CasualConnect1.jpg" class="attachment-thumbnail wp-post-image" alt="CasualConnect1" title="CasualConnect1" />
+         </div> 
+         <p><img class="aligncenter size-full wp-image-6765" title="CasualConnect1" src="http://www.truste.com/blog/wp-content/uploads/CasualConnect1.jpg" alt="" width="476" height="562" /><em>By Eleanor Treharne-Jones, CIPP/E, Director, EMEA &amp; Global Communications</em></p> 
+         <p>In the U.S., recent revisions to Children’s Online Privacy Protection Act (COPPA), and legal action by the Federal Trade Commission have brought renewed attention to the issue of children’s online privacy. In the EU, changes proposed in the draft Data Protection Regulation addressing the protection of children’s online privacy mirror many of those included under COPPA.</p> 
+         <p>There’s been phenomenal growth of mobile applications and games, and we know that pre-teens are among the most active users of this technology. So the question that needs to be addressed is, what is a viable strategy for app publishers to navigate these laws while ensuring parents are informed and in control of their children’s privacy?</p> 
+         <p> <a href="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/#more-6761" class="more-link"><span class="block-button">Read the rest of this entry &raquo;</span></a></p> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/casual-connect-conference/" rel="tag">Casual Connect Conference</a>, <a href="http://www.truste.com/blog/tag/coppa/" rel="tag">COPPA</a>, <a href="http://www.truste.com/blog/tag/data-protection-regulation/" rel="tag">Data Protection Regulation</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/02/06/kids-privacy-respect/#respond" title="Comment on Kids’ Privacy – It’s All About Respect!">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6733" class="post-6733 post type-post status-publish format-standard hentry category-uncategorized category-meet-truste tag-dave-deasy tag-marketing tag-truste-employees clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Feb<br /><span>04</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/" rel="bookmark" title="Permalink to Meet TRUSTe: Dave Deasy, VP Marketing">Meet TRUSTe: Dave Deasy, VP Marketing</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a>,</li> 
+          <li><a href="http://www.truste.com/blog/category/meet-truste/" title="View all posts in Meet TRUSTe" rel="category tag">Meet TRUSTe</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="90" src="http://www.truste.com/blog/wp-content/uploads/dave_blog.jpg" class="attachment-thumbnail wp-post-image" alt="dave_blog" title="dave_blog" />
+         </div> 
+         <p><img class="aligncenter size-full wp-image-6737" title="dave_blog" src="http://www.truste.com/blog/wp-content/uploads/dave_blog.jpg" alt="" width="750" height="450" /></p> 
+         <p><strong>Name:&nbsp;</strong>Dave Deasy</p> 
+         <p><strong>Job Title:</strong>&nbsp;VP Marketing</p> 
+         <p><strong>How long have you worked at TRUSTe?&nbsp;</strong>4 years</p> 
+         <p><strong>Tell us about your role at TRUSTe: </strong>I head up marketing at TRUSTe.&nbsp;Our team is responsible for helping to make sure our products and services meet the needs of our clients.&nbsp;We produce a wide range of programs including Industry Summits, Educational Webinars, Consumer Research, Business Benchmarking Reports, and White Papers, to name a few. In addition to our own resources and events, we participate in industry conferences and trades hows around the globe including IAPP, Online Trust Alliance (OTA), Future of Privacy Forum (FPF), DAA / EDAA, IAB, MMA, RSA, Compliance Week, and many more. We also produce the TRUSTe Blog, TRUSTe Digest Newsletter, and manage our website (<span style="text-decoration: underline;"><a href="http://www.truste.com/" target="_blank">www.truste.com</a></span>).</p> 
+         <p><strong>What do you think are the top privacy challenges for companies?</strong>&nbsp;The biggest privacy challenge companies face is having a global understanding of what data is being collected, how it is being used, and what the compliance requirements and consumer trust expectations are. If this sounds like a lot, it is. By global I don’t just mean across geographic borders, but also across business units, departments, products, etc. The advances in technology and the Internet during the past 10 years have made it increasingly easy for individuals and organizations across a business to build and launch apps, add or change content to websites, introduce new advertising and marketing partners, and a whole lot more.&nbsp;While all of these developments are helping to speed the development of new products and services, they are also creating an increasingly complex data environment that requires a comprehensive approach to manage.&nbsp;At the same time, regulators and industry groups are increasing their efforts to help provide frameworks and rules so businesses can govern their use of data, but differing standards across geographies and industries can sometimes lead to grey areas which in turn leads to confusion on what to do.</p> 
+         <p> <a href="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/#more-6733" class="more-link"><span class="block-button">Read the rest of this entry &raquo;</span></a></p> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/dave-deasy/" rel="tag">Dave Deasy</a>, <a href="http://www.truste.com/blog/tag/marketing/" rel="tag">Marketing</a>, <a href="http://www.truste.com/blog/tag/truste-employees/" rel="tag">TRUSTe employees</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/02/04/meet-truste-dave-deasy-vp-marketing/#comments" title="Comment on Meet TRUSTe: Dave Deasy, VP Marketing">1 comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6745" class="post-6745 post type-post status-publish format-standard hentry category-uncategorized category-compliance tag-apec tag-cross-border-privacy-rules clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Feb<br /><span>04</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/" rel="bookmark" title="Permalink to APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard">APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a>,</li> 
+          <li><a href="http://www.truste.com/blog/category/compliance/" title="View all posts in Compliance" rel="category tag">Compliance</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/eleanor/" title="Posts by eleanor" rel="author">eleanor</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="94" src="http://www.truste.com/blog/wp-content/uploads/Manila_Philippines.jpg" class="attachment-thumbnail wp-post-image" alt="fort bonifacio skyscrapers manila" title="fort bonifacio skyscrapers manila" />
+         </div> 
+         <div dir="ltr"> 
+          <p><img class="aligncenter size-full wp-image-6755" title="fort bonifacio skyscrapers manila" src="http://www.truste.com/blog/wp-content/uploads/Manila_Philippines.jpg" alt="" width="750" height="471" /></p> 
+          <p>After four days of intense meetings and discussions at the&nbsp;Asia Pacific Economic Cooperation’s (APEC) First Senior Officials Meeting in Subic Bay, Philippines,&nbsp;APEC Member Economies today completed work on a &nbsp;”Privacy Recognition for Processors” (PRP). The PRP is designed to help data processors demonstrate their ability to provide effective implementation of a data controller’s privacy obligations consistently with APEC’s Cross Border Privacy Rules (CBPR) System.</p> 
+          <p>The PRP is a series of 17 program requirements a processor must implement in order to be certified by an APEC-recognized Accountability Agent.&nbsp; In the coming months, APEC Members will complete the procedural documents necessary to recognize Accountability Agents that will certify interested data processors.</p> 
+          <p>TRUSTe has actively participated in the development of the APEC CBPR system over the last 8 years and Chris Babel, CEO TRUSTe and Josh Harris, Policy Director, were in the Philippines at the Senior Officials meeting this week.</p> 
+          <p>TRUSTe was re-recognized as an Accountability Agent for data controllers under the CBPR System by the 21 APEC Member Economies on January 27 and plans to continue work with APEC Member Economies to establish a trusted global data processing network under the PRP.</p> 
+         </div> 
+         <div dir="ltr"> 
+          <p>For more information about the TRUSTe APEC program including the program requirements, visit&nbsp;<a href="http://www.truste.com/privacy-program-requirements/apec" target="_blank">http://www.truste.com/privacy-program-requirements/apec</a>.</p> 
+          <div>
+           <em><br /> </em>
+          </div> 
+         </div> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/apec/" rel="tag">APEC</a>, <a href="http://www.truste.com/blog/tag/cross-border-privacy-rules/" rel="tag">cross border privacy rules</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/02/04/apec-economies-endorse-%e2%80%98privacy-recognition-for-processors%e2%80%99-standard/#respond" title="Comment on APEC Member Economies Endorse ‘Privacy Recognition for Processors’ Standard">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6510" class="post-6510 post type-post status-publish format-standard hentry category-uncategorized tag-data-privacy tag-pia tag-privacy-impact-assessment clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Feb<br /><span>03</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/" rel="bookmark" title="Permalink to Privacy Impact Assessments: Final Steps">Privacy Impact Assessments: Final Steps</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="112" src="http://www.truste.com/blog/wp-content/uploads/Privacy_PIA.jpg" class="attachment-thumbnail wp-post-image" alt="Security concept: Privacy on digital background" title="Security concept: Privacy on digital background" />
+         </div> 
+         <p><em>This post is part 4 of a 4 part series about Privacy Impact Assessments (PIAs).&nbsp;</em></p> 
+         <p><img class="aligncenter size-full wp-image-6512" title="Security concept: Privacy on digital background" src="http://www.truste.com/blog/wp-content/uploads/Privacy_PIA.jpg" alt="" width="800" height="600" />Every day, Internet users around the globe generate nearly 2.5 quintillion bytes of data. That number will only grow as connected devices become more ubiquitous and our world becomes even more connected.</p> 
+         <p>With all that data, companies need to ensure users’ information is protected. Taking this important step not only protects users and clients, but also helps to ensure companies mitigate risk and protect their reputations.</p> 
+         <p>A PIA is a great way for companies to assess their privacy practices. The six-step process starts with <a href="http://www.truste.com/blog/2015/01/13/mitigate-risk-protect-data-privacy-impact-assessment/" target="_blank">high-level privacy</a> questions, then <a href="http://www.truste.com/blog/2015/01/20/starting-privacy-impact-assessment/" target="_blank">steps 2 and 3</a> take a deeper dive into the intricate privacy practices and data flows of organizations to check for gaps that could lead to privacy problems.</p> 
+         <p> <a href="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/#more-6510" class="more-link"><span class="block-button">Read the rest of this entry &raquo;</span></a></p> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/data-privacy/" rel="tag">data privacy</a>, <a href="http://www.truste.com/blog/tag/pia/" rel="tag">PIA</a>, <a href="http://www.truste.com/blog/tag/privacy-impact-assessment/" rel="tag">Privacy Impact Assessment</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/02/03/privacy-impact-assessments-final-steps/#respond" title="Comment on Privacy Impact Assessments: Final Steps">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6594" class="post-6594 post type-post status-publish format-standard hentry category-uncategorized category-events tag-data-privacy tag-events tag-truste-events clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Feb<br /><span>02</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/" rel="bookmark" title="Permalink to February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!">February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a>,</li> 
+          <li><a href="http://www.truste.com/blog/category/events/" title="View all posts in Events" rel="category tag">Events</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="32" src="http://www.truste.com/blog/wp-content/uploads/CasualConnect.png" class="attachment-thumbnail wp-post-image" alt="CasualConnect" title="CasualConnect" />
+         </div> 
+         <p><img class="aligncenter size-full wp-image-6689" title="CasualConnect" src="http://www.truste.com/blog/wp-content/uploads/CasualConnect.png" alt="" width="515" height="110" /></p> 
+         <ul> 
+          <li>February 4-6</li> 
+         </ul> 
+         <p><a href="http://europe.casualconnect.org/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://europe.casualconnect.org']);" target="_blank">Casual Connect Conference</a></p> 
+         <p>Amsterdam</p> 
+         <p>TRUSTe’s Director of Global Communications, Eleanor Treharne-Jones will moderate a panel titled, “<a href="http://europe.casualconnect.org/content.html#regulation" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://europe.casualconnect.org']);">EU Data Protection Regulation Meets COPPA – Successfully Navigating Kids’ Privacy Regulations</a>” from 1-1:50 in the Administratiezaal on the 2<sup>nd</sup> Level. Panelists will be Paul Gardner, Partner at Osborne Clark; Max Sorenson, Legal Counsel and Data Privacy Officer at LEGO Group; Keith Dennis, CEO of AssertID, Inc. and Dylan Collins, CEO of SuperAwesome.</p> 
+         <p>The conference runs Feb. 4-6. Approximately 2,000 people are expected to attend.</p> 
+         <p>&nbsp;</p> 
+         <p><a href="http://europe.casualconnect.org/registration.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://europe.casualconnect.org']);" target="_blank">Register now</a>.</p> 
+         <p>&nbsp;</p> 
+         <ul> 
+          <li>February 10</li> 
+         </ul> 
+         <p><a href="http://insightseries.splashthat.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://insightseries.splashthat.com']);" target="_blank">Managing Global Privacy Risk &amp; Compliance</a></p> 
+         <p>Chicago</p> 
+         <p>This event is part of TRUSTe’s <a href="http://insightseries.splashthat.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://insightseries.splashthat.com']);">Privacy Insight Series</a>. This exclusive event brings together privacy professional to discuss best practices for global compliance and strategic privacy risk management. Panelist for this event are: Abishek Agarwal, Global Chief Privacy Officer at Baxter International, Inc.; Nadya E. Aswad, Director, Cybersecurity &amp; Privacy at PwC; <a href="http://www.truste.com/about-TRUSTe/people" target="_blank">Chris Babel</a>, CEO at TRUSTe; Manuel Cuevas-Tris&aacute;n, Vice President, Labor &amp; Employment Law, Privacy &amp; Data Security and Head of Litigation at Motorola Solutions, Inc.; Jim Lancheros, Counsel – Brands at Kellogg Company; Jose Tabuena, Columnist at Compliance Week; and <a href="http://www.truste.com/blog/2015/01/28/meet-truste-kevin-trilli-vp-product/" target="_blank">Kevin Trilli</a>, VP of Product at TRUSTe. <strong>&nbsp;</strong></p> 
+         <p><a href="http://insightseries.splashthat.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://insightseries.splashthat.com']);" target="_blank">Register now</a>.</p> 
+         <p>&nbsp;</p> 
+         <ul> 
+          <li>February 19</li> 
+         </ul> 
+         <p>Vendor Management Best Practices Webinar</p> 
+         <p>Part of TRUSTe’s Privacy Insight Series, this webinar will cover the role of governance, risk and compliance in vendor management. Speakers are <a href="http://www.truste.com/blog/2015/01/21/meet-truste-debra-farber-consultant-product-manager/" target="_blank">Debra Farber</a>, Senior Privacy Consultant and Product Manager at TRUSTe, and K. Royal, Privacy Counsel at Align Technology.</p> 
+         <p><a href="http://trusteprivacyinsightseries219.splashthat.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://trusteprivacyinsightseries219.splashthat.com']);" target="_blank">Register now</a>.</p> 
+         <p>&nbsp;</p> 
+         <p><strong>Upcoming events:</strong></p> 
+         <p><img class="aligncenter size-full wp-image-4768" title="TRUSTe Mobile World Congress Booth" src="http://www.truste.com/blog/wp-content/uploads/truste-mobile-world-congress-booth.jpg" alt="" width="480" height="640" /></p> 
+         <ul> 
+          <li>TRUSTe is attending the Mobile World Congress in Barcelona from March 2-5. Come meet the team at the TRUSTe booth in Hall 8.1, App Planet Stand H15.</li> 
+          <li>The IAPP’s Global Privacy Summit in Washington, D.C. takes place from March 4-6. TRUSTe CEO Chris Babel and Josh Harris, TRUSTe’s Director of Policy, will be speaking at this event. <a href="https://privacyassociation.org/conference/global-privacy-summit-2015/register" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://privacyassociation.org']);">Register now.</a></li> 
+          <li>Two more events in the Privacy Insight Series are coming up in March: On March 12 in New York, TRUSTe will host a roundtable event about <a href="http://trusteprivacyinsightseries312.splashthat.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://trusteprivacyinsightseries312.splashthat.com']);">employee data management</a>. Then, on March 26, everyone is invited to attend an online webinar titled, “<a href="http://trusteprivacyinsightseries326.splashthat.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://trusteprivacyinsightseries326.splashthat.com']);">Cross Border Data Transfer Strategies</a>.”</li> 
+         </ul> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/data-privacy/" rel="tag">data privacy</a>, <a href="http://www.truste.com/blog/tag/events/" rel="tag">Events</a>, <a href="http://www.truste.com/blog/tag/truste-events/" rel="tag">TRUSTe Events</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/02/02/february-monthly-spotlight-casual-connect/#respond" title="Comment on February Monthly Spotlight – Casual Connect, Privacy Insight Series and More!">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6664" class="post-6664 post type-post status-publish format-standard hentry category-uncategorized tag-data-privacy tag-data-privacy-news tag-recap clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Jan<br /><span>30</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/01/30/end-of-month-recap/" rel="bookmark" title="Permalink to End-of-Month Recap: What You Might Have Missed">End-of-Month Recap: What You Might Have Missed</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="99" src="http://www.truste.com/blog/wp-content/uploads/privacy1.jpg" class="attachment-thumbnail wp-post-image" alt="Privacy" title="Privacy" />
+         </div> 
+         <p><img class="aligncenter size-full wp-image-2133" title="Privacy" src="http://www.truste.com/blog/wp-content/uploads/privacy1.jpg" alt="" width="425" height="282" /></p> 
+         <p>At the end of each month we’ll compile a list featuring some of the most informative and interesting privacy blog posts to let you know what topics are driving the privacy agenda this month.</p> 
+         <p>This month, the State of the Union address was big news for the privacy field as the president announced new privacy legislation. We also launched a new series late last year called, “Meet TRUSTe,” in which we introduce you to privacy experts at TRUSTe. See below for some of the top posts from this month.</p> 
+         <p>&nbsp;</p> 
+         <p><a href="http://www.truste.com/blog/wp-content/uploads/Washington_government-1.jpg" data-slb-group="6664" data-slb-active="1" data-slb-internal="0"><img class="aligncenter size-full wp-image-6525" title="Washington_government (1)" src="http://www.truste.com/blog/wp-content/uploads/Washington_government-1.jpg" alt="" width="800" height="440" /></a><span style="color: #000000;">President Obama unveiled new privacy legislation at the State of the Union address and revealed some details of the proposed legislation to the FTC the week prior to the address. We tapped one of our many internal privacy experts to identify how these regulations would impact businesses and consumers if passed. We published two blog posts about the SOTU, one before the address and one afterwards:</span></p> 
+         <p><a href="http://www.truste.com/blog/2015/01/14/obama-new-data-privacy-initiatives-sotu/" target="_blank">Obama to Introduce New Data Privacy Initiatives at Next Week’s SOTU</a></p> 
+         <p><a href="http://www.truste.com/blog/2015/01/22/obama-privacy-security-sotu-address/">Obama Addresses Privacy, Security at SOTU Address</a></p> 
+         <p>&nbsp;</p> 
+         <p>Guest contributor and creator of the blog <a href="http://www.theprivacyguru.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.theprivacyguru.com']);">ThePrivacyGuru</a>, Alexandra Ross, wrote an interesting piece about privacy concerns within private messaging apps. Private messaging apps, she writes, have experienced a 200 percent increase in downloads from 2013 over 2012:</p> 
+         <p><a href="http://www.truste.com/blog/2015/01/26/private-messaging-apps/">The Upsides and Downsides of Private Messaging Apps</a></p> 
+         <p>&nbsp;</p> 
+         <p><img class="aligncenter size-full wp-image-5638" title="privacy regulation" src="http://www.truste.com/blog/wp-content/uploads/privacy-regulation.jpg" alt="" width="849" height="565" /></p> 
+         <p>We also covered privacy news in Brazil and Canada, where the respective governments are enforcing existing privacy laws and cracking-down on privacy violators.</p> 
+         <p>The Office of the Privacy Commissioner of Canada will launch a research project to determine if some of Canada’s most popular websites are compliant with Canadian privacy laws.</p> 
+         <p>While in Brazil, a new law went into effect on June 23, 2014, requiring websites to inform users if their browsing activities are being tracked and sold to third parties for use in behavioral advertisements. See the full details in the posts here:</p> 
+         <p><a href="http://www.truste.com/blog/2015/01/16/canadian-privacy-regulators-launch-research-advertising-compliance/">Canadian Privacy Regulators Launch Research to Examine Advertising Compliance</a></p> 
+         <p><a href="http://www.truste.com/blog/2015/01/09/crackdown-brazil/">Online Privacy Crackdown Beyond the EU to Brazil</a></p> 
+         <p>&nbsp;</p> 
+         <p>In our new Meet TRUSTe series, you’ll get to know some of the knowledgeable privacy experts at TRUSTe:</p> 
+         <p><a href="file://localhost/Meet%20TRUSTe/%20Ray%20Everett,%20Director%20of%20Product%20Management%20&amp;%20Principal%20Consultant%20-%20See%20more%20at/%20http/::www.truste.com:blog:2015:01:07:meet-truste-ray-everett:#sthash.VeYteh4c.dpuf">Meet TRUSTe: Ray Everett, Director of Product Management &amp; Principal Consultant</a></p> 
+         <p><a href="http://www.truste.com/blog/2015/01/14/meet-truste-ken-okumura-vp-engineering/">Meet TRUSTe: Ken Okumura, VP Engineering</a></p> 
+         <p><a href="http://www.truste.com/blog/2015/01/21/meet-truste-debra-farber-consultant-product-manager/">Meet TRUSTe: Debra Farber, Sr. Consultant &amp; Product Manager</a></p> 
+         <p><a href="http://www.truste.com/blog/?p=6556">Meet TRUSTe: Kevin Trilli, VP Product</a></p> 
+         <p>&nbsp;</p> 
+         <p>&nbsp;</p> 
+         <p><strong><em>What would you like to read more about on the TRUSTe blog?</em></strong></p> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/data-privacy/" rel="tag">data privacy</a>, <a href="http://www.truste.com/blog/tag/data-privacy-news/" rel="tag">data privacy news</a>, <a href="http://www.truste.com/blog/tag/recap/" rel="tag">recap</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/01/30/end-of-month-recap/#respond" title="Comment on End-of-Month Recap: What You Might Have Missed">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6680" class="post-6680 post type-post status-publish format-standard hentry category-uncategorized category-events tag-dpd2015 tag-data-privacy-day tag-san-francisco clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Jan<br /><span>29</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/01/29/data-privacy-day-2015-recap/" rel="bookmark" title="Permalink to Data Privacy Day 2015 Recap">Data Privacy Day 2015 Recap</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a>,</li> 
+          <li><a href="http://www.truste.com/blog/category/events/" title="View all posts in Events" rel="category tag">Events</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="99" src="http://www.truste.com/blog/wp-content/uploads/KnowledgeTransfer_keyboard.jpg" class="attachment-thumbnail wp-post-image" alt="Education concept: Knowledge Transfer on keyboard background" title="Education concept: Knowledge Transfer on keyboard background" />
+         </div> 
+         <p><img class="aligncenter size-full wp-image-6121" title="Education concept: Knowledge Transfer on keyboard background" src="http://www.truste.com/blog/wp-content/uploads/KnowledgeTransfer_keyboard.jpg" alt="" width="800" height="532" /></p> 
+         <p>TRUSTe was busy hosting, co-hosting and attending events around San Francisco for Data Privacy Day. These events brought out privacy experts, as well as those interested in learning more about privacy.</p> 
+         <p>Kicking-off Data Privacy Day was The Online Trust Alliance’s Data Privacy Town Hall Alliance event where&nbsp;TRUSTe CEO Chris Babel spoke about current privacy issues with a panel of other experts.</p> 
+         <p> <a href="http://www.truste.com/blog/2015/01/29/data-privacy-day-2015-recap/#more-6680" class="more-link"><span class="block-button">Read the rest of this entry &raquo;</span></a></p> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/dpd2015/" rel="tag">#DPD2015</a>, <a href="http://www.truste.com/blog/tag/data-privacy-day/" rel="tag">data privacy day</a>, <a href="http://www.truste.com/blog/tag/san-francisco/" rel="tag">San Francisco</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/01/29/data-privacy-day-2015-recap/#respond" title="Comment on Data Privacy Day 2015 Recap">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="post-6556" class="post-6556 post type-post status-publish format-standard hentry category-uncategorized category-meet-truste tag-data-privacy tag-meet-truste tag-truste-employees clearfix post"> 
+       <div class="date updated"> 
+        <p class="default_date">Jan<br /><span>28</span> <br /><span class="year">2015</span> </p> 
+       </div> 
+       <div class="entry clearfix"> 
+        <h2 class="post-title entry-title"> <a href="http://www.truste.com/blog/2015/01/28/meet-truste-kevin-trilli-vp-product/" rel="bookmark" title="Permalink to Meet TRUSTe: Kevin Trilli, VP Product">Meet TRUSTe: Kevin Trilli, VP Product</a> </h2> 
+        <div class="post-meta clearfix"> 
+         <span class="printonly">Categories: </span> 
+         <ul class="meta_categories"> 
+          <li><a href="http://www.truste.com/blog/category/uncategorized/" title="View all posts in All" rel="category tag">All</a>,</li> 
+          <li><a href="http://www.truste.com/blog/category/meet-truste/" title="View all posts in Meet TRUSTe" rel="category tag">Meet TRUSTe</a></li> 
+         </ul> 
+         <p class="post-author author vcard"> by <span class="fn nickname"><a href="http://www.truste.com/blog/author/kfreeman/" title="Posts by kfreeman" rel="author">kfreeman</a></span> </p> 
+        </div> 
+        <div class="entry-content clearfix"> 
+         <div style="display:none;">
+          <img width="150" height="90" src="http://www.truste.com/blog/wp-content/uploads/KevinTrilli.jpg" class="attachment-thumbnail wp-post-image" alt="KevinTrilli" title="KevinTrilli" />
+         </div> 
+         <p><em>Our latest series will introduce you to a new TRUSTe employee every week to give you an inside look at the talented, knowledgable and friendly people who work at TRUSTe.&nbsp;</em></p> 
+         <p><img class="aligncenter size-full wp-image-6656" title="KevinTrilli" src="http://www.truste.com/blog/wp-content/uploads/KevinTrilli.jpg" alt="" width="750" height="450" /></p> 
+         <p><strong>Name:&nbsp;</strong>Kevin Trilli</p> 
+         <p><strong>Job title:</strong> VP Product</p> 
+         <p><strong>How long have you worked at TRUSTe?:&nbsp;</strong>6+ years (started in November ‘08)</p> 
+         <p><strong>Describe your current role, how this has changed over time and your current projects:</strong> My current role is responsible for driving&nbsp;product&nbsp;strategy for TRUSTe and managing the product management team for the product portfolio. My key current project is driving the strategy&nbsp;and roll-out of our Data Privacy Management&nbsp;Platform into beta and general&nbsp;availability in 2015. This has involved working with dozens of our key customers and others to learn about their challenges managing privacy and data protection within a large global enterprise and building a set of&nbsp;services and products that can help them manage those challenges.</p> 
+         <p><strong>What do you like most about working here?:</strong> There are several aspects: 1) Due to TRUSTe’s unique background and the evolving nature of the privacy management space, helping to grow this company is a stimulating challenge on&nbsp;many levels. We are working to&nbsp;innovate a space that has been pretty static for many years. It is exciting to be in that position with your company regardless of&nbsp;the industry. We have some really great ideas and&nbsp;a vision that many will start to see become a reality&nbsp;this year, 2) The&nbsp;team we have assembled, both the&nbsp;original core and the newer more recent team&nbsp;members, are truly a pleasure and honor to work with. We have a very focused, dedicated group of professionals that&nbsp;come from amazing and diverse backgrounds. It keeps it fun and we function&nbsp;well as a team. Being here is a&nbsp;personal decision by all of us – there are many choices, particularly in San Francisco and the Bay area, so we are all treating this opportunity very seriously.</p> 
+         <p> <a href="http://www.truste.com/blog/2015/01/28/meet-truste-kevin-trilli-vp-product/#more-6556" class="more-link"><span class="block-button">Read the rest of this entry &raquo;</span></a></p> 
+        </div> 
+        <div class="entry-footer clearfix"> 
+         <p class="post-tags">Tags: <a href="http://www.truste.com/blog/tag/data-privacy/" rel="tag">data privacy</a>, <a href="http://www.truste.com/blog/tag/meet-truste/" rel="tag">Meet TRUSTe</a>, <a href="http://www.truste.com/blog/tag/truste-employees/" rel="tag">TRUSTe employees</a></p> 
+         <p class="comment-link"><a href="http://www.truste.com/blog/2015/01/28/meet-truste-kevin-trilli-vp-product/#respond" title="Comment on Meet TRUSTe: Kevin Trilli, VP Product">Leave comment</a></p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="post-nav clearfix"> 
+       <p id="previous"><a href="http://www.truste.com/blog/page/2/">Older posts &laquo;</a></p> 
+       <p id="next-post"></p> 
+      </div> 
+     </div>
+     <!-- #content-main --> 
+     <div id="sidebar1" class="sidebar"> 
+      <div id="s2_form_widget-3" class="sidebar-wrap clearfix s2_form_widget">
+       <h3>Subscribe</h3>
+       <div class="search">
+        Sign up and stay up to date on the latest from TRUSTe.
+        <br />
+        <br />
+        <form method="post" action="http://www.truste.com/blog/subscribe-to-our-blog/">
+         <input type="hidden" name="ip" value="10.45.43.198" />
+         <p><label for="s2email">Your email:</label><br /><input type="text" name="email" id="s2email" value="Enter email address..." size="20" onfocus="if (this.value == 'Enter email address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter email address...';}" /></p>
+         <p><input type="submit" name="subscribe" value="Subscribe" />&nbsp;<input type="submit" name="unsubscribe" value="Unsubscribe" /></p>
+        </form> 
+       </div>
+      </div>
+      <div id="text-4" class="sidebar-wrap clearfix widget_text">
+       <h3>Follow us on twitter</h3> 
+       <div class="textwidget">
+        <a class="twitter-timeline" href="https://twitter.com/TRUSTe" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);" data-widget-id="402849932517715968">Tweets by @TRUSTe</a> 
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+       </div> 
+      </div>
+      <div id="ctc-3" class="sidebar-wrap clearfix ctc">
+       <h3>Tags</h3>
+       <div class="ctc">
+        <a href="http://www.truste.com/blog/tag/california-online-privacy-protection-act/" class="ctc-tag tag-link-182" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">California Online Privacy Protection Act</a> 
+        <a href="http://www.truste.com/blog/tag/truste/" class="ctc-tag tag-link-45" title="15 topics" rel="tag" style="font-size: 21.2px; color: #3c7ab1;">TRUSTe</a> 
+        <a href="http://www.truste.com/blog/tag/webinar/" class="ctc-tag tag-link-189" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Webinar</a> 
+        <a href="http://www.truste.com/blog/tag/data-privacy-day/" class="ctc-tag tag-link-72" title="7 topics" rel="tag" style="font-size: 12.4px; color: #649dcf;">data privacy day</a> 
+        <a href="http://www.truste.com/blog/tag/trusted-mobile-apps/" class="ctc-tag tag-link-177" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">TRUSTed Mobile Apps</a> 
+        <a href="http://www.truste.com/blog/tag/joanne-furtsch/" class="ctc-tag tag-link-135" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Joanne Furtsch</a> 
+        <a href="http://www.truste.com/blog/tag/behavioral-advertising/" class="ctc-tag tag-link-23" title="5 topics" rel="tag" style="font-size: 10.2px; color: #6fa6d7;">behavioral advertising</a> 
+        <a href="http://www.truste.com/blog/tag/privacy-impact-assessment/" class="ctc-tag tag-link-506" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">Privacy Impact Assessment</a> 
+        <a href="http://www.truste.com/blog/tag/truste-events/" class="ctc-tag tag-link-413" title="16 topics" rel="tag" style="font-size: 22.3px; color: #3675ad;">TRUSTe Events</a> 
+        <a href="http://www.truste.com/blog/tag/survey/" class="ctc-tag tag-link-54" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Survey</a> 
+        <a href="http://www.truste.com/blog/tag/apec/" class="ctc-tag tag-link-404" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">APEC</a> 
+        <a href="http://www.truste.com/blog/tag/facebook/" class="ctc-tag tag-link-53" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Facebook</a> 
+        <a href="http://www.truste.com/blog/tag/short-notice/" class="ctc-tag tag-link-116" title="5 topics" rel="tag" style="font-size: 10.2px; color: #6fa6d7;">short notice</a> 
+        <a href="http://www.truste.com/blog/tag/trust/" class="ctc-tag tag-link-57" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">trust</a> 
+        <a href="http://www.truste.com/blog/tag/digital-advertising-alliance-daa/" class="ctc-tag tag-link-329" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Digital Advertising Alliance (DAA)</a> 
+        <a href="http://www.truste.com/blog/tag/compliance-2/" class="ctc-tag tag-link-153" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">compliance</a> 
+        <a href="http://www.truste.com/blog/tag/ad-privacy/" class="ctc-tag tag-link-142" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">ad privacy</a> 
+        <a href="http://www.truste.com/blog/tag/video/" class="ctc-tag tag-link-140" title="5 topics" rel="tag" style="font-size: 10.2px; color: #6fa6d7;">Video</a> 
+        <a href="http://www.truste.com/blog/tag/privacy/" class="ctc-tag tag-link-9" title="22 topics" rel="tag" style="font-size: 28.9px; color: #175a95;">privacy</a> 
+        <a href="http://www.truste.com/blog/tag/online-trust-alliance-ota/" class="ctc-tag tag-link-347" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Online Trust Alliance (OTA)</a> 
+        <a href="http://www.truste.com/blog/tag/eu-cookie-directive/" class="ctc-tag tag-link-154" title="7 topics" rel="tag" style="font-size: 12.4px; color: #649dcf;">EU Cookie Directive</a> 
+        <a href="http://www.truste.com/blog/tag/mobile-website-privacy-certification/" class="ctc-tag tag-link-178" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Mobile Website Privacy Certification</a> 
+        <a href="http://www.truste.com/blog/tag/privacy-icons/" class="ctc-tag tag-link-117" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">privacy icons</a> 
+        <a href="http://www.truste.com/blog/tag/adware/" class="ctc-tag tag-link-18" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">adware</a> 
+        <a href="http://www.truste.com/blog/tag/trusted-mobile-ads/" class="ctc-tag tag-link-164" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">TRUSTed Mobile Ads</a> 
+        <a href="http://www.truste.com/blog/tag/privacy-policy/" class="ctc-tag tag-link-12" title="6 topics" rel="tag" style="font-size: 11.3px; color: #6aa2d3;">privacy policy</a> 
+        <a href="http://www.truste.com/blog/tag/awards/" class="ctc-tag tag-link-138" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Awards</a> 
+        <a href="http://www.truste.com/blog/tag/truste-employees/" class="ctc-tag tag-link-480" title="7 topics" rel="tag" style="font-size: 12.4px; color: #649dcf;">TRUSTe employees</a> 
+        <a href="http://www.truste.com/blog/tag/privacy-certification/" class="ctc-tag tag-link-171" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">Privacy Certification</a> 
+        <a href="http://www.truste.com/blog/tag/mobile-privacy/" class="ctc-tag tag-link-134" title="7 topics" rel="tag" style="font-size: 12.4px; color: #649dcf;">Mobile Privacy</a> 
+        <a href="http://www.truste.com/blog/tag/powering-trust-roadshow/" class="ctc-tag tag-link-418" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">Powering Trust Roadshow</a> 
+        <a href="http://www.truste.com/blog/tag/events/" class="ctc-tag tag-link-130" title="8 topics" rel="tag" style="font-size: 13.5px; color: #5f99cb;">Events</a> 
+        <a href="http://www.truste.com/blog/tag/pia/" class="ctc-tag tag-link-505" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">PIA</a> 
+        <a href="http://www.truste.com/blog/tag/meet-truste/" class="ctc-tag tag-link-479" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Meet TRUSTe</a> 
+        <a href="http://www.truste.com/blog/tag/data-privacy/" class="ctc-tag tag-link-75" title="23 topics" rel="tag" style="font-size: 30px; color: #125692;">data privacy</a> 
+        <a href="http://www.truste.com/blog/tag/marketing/" class="ctc-tag tag-link-131" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Marketing</a> 
+        <a href="http://www.truste.com/blog/tag/mobile-privacy-certification/" class="ctc-tag tag-link-176" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Mobile Privacy Certification</a> 
+        <a href="http://www.truste.com/blog/tag/iapp/" class="ctc-tag tag-link-423" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">IAPP</a> 
+        <a href="http://www.truste.com/blog/tag/california-attroney-generals-office/" class="ctc-tag tag-link-173" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">California Attroney General's Office</a> 
+        <a href="http://www.truste.com/blog/tag/case-study/" class="ctc-tag tag-link-435" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Case Study</a> 
+        <a href="http://www.truste.com/blog/tag/coppa/" class="ctc-tag tag-link-192" title="6 topics" rel="tag" style="font-size: 11.3px; color: #6aa2d3;">COPPA</a> 
+        <a href="http://www.truste.com/blog/tag/chris-babel/" class="ctc-tag tag-link-139" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Chris Babel</a> 
+        <a href="http://www.truste.com/blog/tag/trusted-ads/" class="ctc-tag tag-link-145" title="10 topics" rel="tag" style="font-size: 15.7px; color: #5590c3;">TRUSTed Ads</a> 
+        <a href="http://www.truste.com/blog/tag/edith-ramirez/" class="ctc-tag tag-link-265" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Edith Ramirez</a> 
+        <a href="http://www.truste.com/blog/tag/oba/" class="ctc-tag tag-link-403" title="6 topics" rel="tag" style="font-size: 11.3px; color: #6aa2d3;">oba</a> 
+        <a href="http://www.truste.com/blog/tag/mobile-app/" class="ctc-tag tag-link-174" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">Mobile App</a> 
+        <a href="http://www.truste.com/blog/tag/advertising-week/" class="ctc-tag tag-link-129" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">advertising week</a> 
+        <a href="http://www.truste.com/blog/tag/mobile-website/" class="ctc-tag tag-link-175" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">Mobile Website</a> 
+        <a href="http://www.truste.com/blog/tag/the-truste-pioneers-and-mavericks-series/" class="ctc-tag tag-link-166" title="4 topics" rel="tag" style="font-size: 9.1px; color: #74abdb;">The TRUSTe Pioneers and Mavericks Series</a> 
+        <a href="http://www.truste.com/blog/tag/ftc/" class="ctc-tag tag-link-76" title="3 topics" rel="tag" style="font-size: 8px; color: #79b0df;">ftc</a>
+       </div>
+      </div> 
+     </div>
+     <!-- #sidebar1 --> 
+    </div>
+    <!-- #content --> 
+    <div id="footer" class="clearfix"> 
+     <div id="copyright"> 
+      <h3><a href="http://www.truste.com/privacy-policy.html" target="_blank">Privacy Policy</a></h3> 
+     </div> 
+     <div class="footer-menu-wrap"> 
+      <ul id="footer-menu" class="clearfix"> 
+       <li class="menu-item return-top"><a href="#">Return to top</a></li> 
       </ul> 
      </div> 
-    </div> 
-    <!-- End Header Content --> 
-   </div> 
-   <!-- End Header --> 
-   <a id="let-there-be-flyout" href="http://giveto.ucla.edu/the-centennial-campaign?utm_campaign=Centennial+Campaign+Launch&amp;utm_source=Gateway+Takeover&amp;utm_medium=website&amp;utm_content=Sidebar+Flyout+Bug"><img src="/img/content-images/centennial-campaign-home-bug.jpg" alt="Let There Be" /></a> 
-   <a id="feedback" href="http://bit.ly/10Wf0Te">Feedback</a> 
-   <!--TAKEOVER TOP --> 
-   <div class="takeover-top"> 
-    <!--TAKEOVER BOTTOM--> 
-    <div class="takeover-bottom"> 
-     <!-- Container --> 
-     <div id="container"> 
-      <!-- Slideshow --> 
-      <div id="main-slideshow"> 
-       <div class="flexslider"> 
-        <ul class="slides"> 
-         <li> <a href="http://bit.ly/1bJnvAD"><img src="/img/content-images/spotlight/Understanding.jpg" alt="Understanding The African-American Experience For 45 years, the Ralphe J. Bunche Center has promoted the study and recognition of African-American history and culture." /></a> <p class="flex-caption"><a href="http://bit.ly/1bJnvAD"><strong>A New Scholarship For A New America</strong><br /><span class="flex-caption-small">The Ralph J. Bunche Center promotes the study and recognition of African-American history and culture.</span><br /></a></p> </li> 
-         <li> <a href="http://bit.ly/OsAy3G"><img src="/img/content-images/spotlight/Ava.jpg" alt="Direct Action Selma's Ava DuVernay is the first black female director to be nominated for a Golden Globe award." /></a> <p class="flex-caption"><a href="http://bit.ly/OsAy3G"><b>Direct Action</b><br /><span class="flex-caption-small">Selma's Ava DuVernay is the first black female director to be nominated for a Golden Globe award.</span></a></p> </li> 
-         <li> <a href="http://bit.ly/1tW7mGT"><img src="/img/content-images/spotlight/WeConnect.jpg" alt="We Connect How one Bruin doctor is helping the displaced and impoverished in Myanmar." /></a> <p class="flex-caption"><a href="http://bit.ly/1tW7mGT"><strong>We Connect</strong><br /><span class="flex-caption-small">How one Bruin doctor is helping the displaced and impoverished in Myanmar.</span></a></p> </li> 
-         <li> <a href="http://bit.ly/1izuvCP"><img src="/img/content-images/spotlight/Passion.jpg" alt="A Place for Every Passion No matter where your interests lie, supporting UCLA helps you make a difference." /></a> <p class="flex-caption"><a href="http://bit.ly/1izuvCP"><strong>A Place for Every Passion</strong><br /><span class="flex-caption-small">No matter where your interests lie, supporting UCLA helps you make a difference.</span></a></p> </li> 
-        </ul> 
-       </div> 
-       <div id="caption-box"></div> 
-      </div> 
-      <!-- End Slideshow --> 
-      <!-- Main --> 
-      <div id="main-content" role="main"> 
-       <a href="http://giveto.ucla.edu/the-centennial-campaign?utm_campaign=Centennial+Campaign+Launch&amp;utm_source=Gateway+Takeover&amp;utm_medium=website&amp;utm_content=Sidebar+Flyout+Bug+Mobile"><img id="let-there-be" src="/img/content-images/centennial-campaign-home-bug.jpg" alt="Let There Be...The Centennial Campaign for UCLA" /></a> 
-       <!-- Featured Stories --> 
-       <div id="featured-stories">
-        <h3>Featured Stories</h3>
-        <div class="viewport">
-         <ul class="overview">
-          <li class="story"><a href="http://bit.ly/1zGxwgb"><img src="/img/features/dean-murphy.jpg" alt="Dean Murphy" class="photo" /></a> 
-           <div class="text"> 
-            <h4><a href="http://bit.ly/1zGxwgb">New Dean of Engineering</a></h4> 
-            <p>Current mechanical engineering chair at University of Texas to join UCLA in January 2016</p> 
-           </div> </li> 
-          <li class="story"><a href="http://bit.ly/1AtVle7"><img src="/img/features/heart-health.jpg" alt="group exercise" class="photo" /></a> 
-           <div class="text"> 
-            <h4><a href="http://bit.ly/1AtVle7">Keep Your Heart Healthy</a></h4> 
-            <p>For National Heart Month, UCLA doctors remind us how to maintain cardiac well-being</p> 
-           </div> </li> 
-          <li class="story"><a href="http://bit.ly/16l2wYF"><img src="/img/features/yosemite.jpg" alt="Half Dome" class="photo" /></a> 
-           <div class="text"> 
-            <h4><a href="http://bit.ly/16l2wYF">A Handy New Guide to California Parks</a></h4> 
-            <p>CaliParks puts all the state's parks at your fingertips, in English or Spanish</p> 
-           </div> </li> 
-          <li class="story"><a href="http://bit.ly/1Lt3CSO"><img src="/img/features/zebras (1).jpg" alt="Zebras--small and large" class="photo" /></a> 
-           <div class="text"> 
-            <h4><a href="http://bit.ly/1Lt3CSO">Why Do Zebras Have Stripes?</a></h4> 
-            <p>Patterns on these horse-descendants not only look cool, but also control body temperature</p> 
-           </div> </li> 
-          <li class="story"><a href="http://on.fb.me/1LrLf0L"><img src="/img/features/freedom-riders.jpg" alt="African American woman on a bus" class="photo" /></a> 
-           <div class="text"> 
-            <h4><a href="http://on.fb.me/1LrLf0L">Celebrating Bruin Freedom Riders</a></h4> 
-            <p>Special event will honor alumni who were among those fighting Jim Crow segregation in 1961</p> 
-           </div> </li> 
-          <li class="story"><a href="http://bit.ly/16vawXU"><img src="/img/features/global-warming.jpg" alt="Orange sun over city skylineH" class="photo" /></a> 
-           <div class="text"> 
-            <h4><a href="http://bit.ly/16vawXU">Heat Waves on the Rise</a></h4> 
-            <p>For the past four decades, global warming has been amplified, especially in urban areas</p> 
-           </div> </li> 
-         </ul>
-        </div>
-        <div class="carousel-nav">
-         <span class="buttons prev disabled" href="#">Previous Featured Stories</span>
-         <span class="buttons next" href="#">Next Featured Stories</span>
-        </div>
-       </div> 
-       <!-- Supporting Content --> 
-       <div id="supporting-content" class="clear-fix"> 
-        <div id="home-news"> 
-         <h3>Newsroom</h3> 
-         <ul> 
-          <li> <a href="http://newsroom.ucla.edu/releases/ucla-and-usc-scientists-devise-breakthrough-technique-for-mapping-temperature-in-tiny-electronic-devices">UCLA and USC scientists devise breakthrough technique for mapping temperature in tiny electronic devices</a> </li> 
-          <li> <a href="http://newsroom.ucla.edu/stories/provost-announces-new-dean-for-ucla-engineering">Provost announces new dean for UCLA Engineering</a> </li> 
-          <li> <a href="http://newsroom.ucla.edu/stories/girls-of-color-face-harsher-school-discipline-than-white-peers-study-finds">Girls of color face harsher school discipline than white peers, study finds </a> </li> 
-          <li> <a href="http://newsroom.ucla.edu/releases/forever-young-meditation-might-slow-the-age-related-loss-of-gray-matter-in-the-brain-say-ucla-researchers">Meditation might slow age-related loss of gray matter in the brain</a> </li> 
-          <li> <a href="http://newsroom.ucla.edu/stories/q-a:-eric-avila-on-the-bitter-legacy-of-l-a-s-freeways">Q&amp;A: Eric Avila on the bitter legacy of L.A.'s freeways</a> </li> 
-          <li> <a href="http://newsroom.ucla.edu/releases/survey-suggests-students-intent-to-transfer-could-threaten-broad-access-institutions-under-proposed-college-ratings-system">Survey suggests student intent to transfer could threaten some colleges under new ratings</a> </li> 
-          <li> <a href="http://newsroom.ucla.edu/releases/fda-approves-new-drug-to-treat-estrogen-receptorpositive-breast-cancer">FDA approves drug to treat estrogen receptor positive breast cancer</a> </li> 
-         </ul> 
-         <a href="http://newsroom.ucla.edu/" class="bullet">Enter Newsroom</a> 
-        </div> 
-        <div id="home-events"> 
-         <h3>Happenings</h3> 
-         <ul> 
-          <li> <a href="http://happenings.ucla.edu/all/event/154317"><img src="/img/happenings/1970-scroller.jpg" alt="Men's Tennis vs. San Diego State" width="216" /></a> <a href="http://happenings.ucla.edu/all/event/154317">TODAY: Men's Tennis vs. San Diego State</a> </li> 
-          <li> <a href="http://happenings.ucla.edu/all/event/152012"><img src="/img/happenings/1961-scroller.jpg" alt="'The Cheat' (1915); 'The Golden Chance' (1915)" width="216" /></a> <a href="http://happenings.ucla.edu/all/event/152012">TODAY: 'The Cheat' (1915); 'The Golden Chance' (1915)</a> </li> 
-          <li> <a href="http://happenings.ucla.edu/all/event/148761"><img src="/img/happenings/1962-scroller.jpg" alt="Family Flicks Film Series: The Phantom Tollbooth" width="216" /></a> <a href="http://happenings.ucla.edu/all/event/148761">02/08 Family Flicks Film Series: The Phantom Tollbooth</a> </li> 
-         </ul> 
-         <a href="http://happenings.ucla.edu/" class="bullet">Enter Happenings</a> 
-        </div> 
-        <div id="home-social-media" class="end"> 
-         <h3>Connect with UCLA</h3> 
-         <ul> 
-          <li><a href="http://www.facebook.com/uclabruins"><span class="facebook">Facebook icon</span>Facebook</a></li> 
-          <li><a href="http://twitter.com/ucla"><span class="twitter">Twitter icon</span>Twitter</a></li> 
-          <li><a href="https://foursquare.com/v/ucla/4116be80f964a520030c1fe3"><span class="foursquare">Foursquare icon</span>Foursquare</a></li> 
-          <li><a href="http://youtube.ucla.edu"><span class="youtube">Youtube icon</span>YouTube</a></li> 
-          <li><a href="http://itunes.ucla.edu"><span class="itunes">iTunes icon</span>iTunes</a></li> 
-          <li><a href="http://www.instagram.com/ucla"><span class="instagram">Instagram icon</span>Instagram</a></li> 
-         </ul> 
-        </div> 
-       </div> 
-       <!-- End Supporting Content --> 
-      </div> 
-      <!-- End Main --> 
-      <a href="http://www.ucla.edu/optimists/?utm_campaign=WeTheOptimists&amp;utm_source=Gateway+Takeover&amp;utm_medium=website&amp;utm_content=Banner+Ad"><img id="centennial-campaign-banner-920" src="/img/content-images/optimists-banner-920.gif" alt="we, the optimists. UCLA - Learn More" /></a> 
+     <div id="developer"> 
+      <p> Powered by <a href="http://wordpress.org/">WordPress</a> and the <a href="http://www.khairul-syahir.com/wordpress-dev/graphene-theme">Graphene Theme</a>. </p> 
      </div> 
-     <!-- End Container --> 
-     <div id="footer-push"></div> 
-    </div> 
-    <!--TAKEOVER BOTTOM END--> 
-   </div> 
-   <!--TAKEOVER TOP END--> 
-  </div> 
-  <!-- End Page Wrap --> 
-  <!-- Footer --> 
-  <div id="footer"> 
-   <div id="footer-content"> 
-    <ul id="footer-nav"> 
-     <li><a href="/maps-directions-parking">Maps, Directions, Parking</a></li> 
-     <li><a href="http://www.directory.ucla.edu">Directory</a></li> 
-     <li><a href="/contact">Contact</a></li> 
-     <li><a href="http://www.registrar.ucla.edu/calendar/">Academic Calendar</a></li> 
-     <li><a href="https://hr.mycareer.ucla.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=1332455457640">Careers</a></li> 
-     <li><a href="https://diversity.ucla.edu/">Diversity</a></li> 
-     <li><a href="http://www.universityofcalifornia.edu/">University of California</a></li> 
-     <li><a href="/terms-of-use">Terms of Use</a></li> 
-    </ul> 
-    <ul id="contact-info"> 
-     <li>UCLA</li> 
-     <li>405 Hilgard Avenue</li> 
-     <li>Los Angeles, CA 90095</li> 
-     <li>310.825.4321</li> 
-    </ul> 
-   </div> 
-  </div> 
-  <!-- End Footer --> 
-  <!-- Scripts --> 
-  <script src="/js/respond.js"></script> 
-  <script src="/js/plugins.js"></script> 
-  <script src="/js/global.js"></script> 
-  <script src="/js/responsive.js"></script> 
-  <script src="/js/search.js"></script>  
+    </div>
+    <!-- #footer --> 
+   </div>
+   <!-- #container --> 
+  </div>
+  <!-- .bg-gradient --> 
+  <script type="text/javascript" src="http://cdn.jquerytools.org/1.2.5/all/jquery.tools.min.js?ver=3.2.1"></script> 
+  <!--[if IE 8]>
+    <script type="text/javascript">
+        (function($) {
+            var imgs, i, w;
+            var imgs = document.getElementsByTagName('img');
+            maxwidth = 0.98 * $('.entry-content').width();
+            for( i = 0; i < imgs.length; i++ ) {
+                w = imgs[i].getAttribute( 'width' );
+                if ( w > maxwidth ) {
+                    imgs[i].removeAttribute( 'width' );
+                    imgs[i].removeAttribute( 'height' );
+                }
+            }
+        })(jQuery);
+    </script>
+    <![endif]--> 
+  <!-- Scrollable --> 
+  <script type="text/javascript">
+				//<![CDATA[
+                jQuery(document).ready(function($){
+					$(function() {
+                        // initialize scrollable
+						$("#slider_root").scrollable({circular: true, speed: 400}).navigator({	  
+								navi: ".slider_nav",
+								naviItem: 'a',
+								activeClass: 'active'
+							}).autoscroll({interval: 7000});
+                    });
+                });
+				//]]>
+            </script> 
+  <!-- #Scrollable --> 
+  <script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>  
  </body>
 </html>
