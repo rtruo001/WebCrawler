@@ -8,32 +8,41 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-
 public class CrawlerThreads implements Runnable {
 	
 	//PUBLIC VARIABLES
 	public LinkedList<String> thread_url;
-	public static HashMap<String, String> duplicateLinks;
-	public static int count;
+	public HashMap<String, String> duplicateLinks;
+	public Integer count;
 
 	/*
 	 * Constructors
 	 */
-	public CrawlerThreads(LinkedList<String> text_urls) {
+	public CrawlerThreads(LinkedList<String> text_urls, HashMap<String,String> duplicateUrls, Integer globalCount) {
 		thread_url = text_urls;
-		count = 0;
-		if (count == 0)
-			duplicateLinks = new HashMap<String, String>();
+		duplicateLinks = duplicateUrls;
+		count = globalCount;
 	}
 	
+	/*  ==========================================================================
+	    Every thread will call this function once it starts.
+	    
+	    @param      NONE
+	    @return     NONE        
+	    ========================================================================== */
 	public void run() {
 		preDownload();
 	}
 	
+	/*  ==========================================================================
+	    Pops the url and sends it into the Downloading links.
+	    
+	    @param      NONE
+	    @return     NONE        
+    ========================================================================== */
 	public synchronized void preDownload() {
 		while (thread_url.size() != 0) {
-			DownloadingLinks(thread_url.pop(), count);
-			++count;
+			DownloadingLinks(thread_url.pop());
 		}
 	}
 	
@@ -45,7 +54,7 @@ public class CrawlerThreads implements Runnable {
 	    			int			To append to the file name to determine num of files
 	    @return     NONE        
 	    ========================================================================== */
-	private synchronized void DownloadingLinks(String url, int count) {
+	private synchronized void DownloadingLinks(String url) {
 	    try {
 	        Document doc = Jsoup.connect(url).get();
 	        Elements links = doc.select("a[href]");
@@ -53,12 +62,13 @@ public class CrawlerThreads implements Runnable {
 	        //Does the storing the html contents into the files
 	        String htmlContent = doc.html();
 	        String fileToStore = "fileToStore" + Integer.toString(count);
+	        ++count;
 	        SaveContentIntoFile(htmlContent, fileToStore);
 	
 	        //Saves the links in the html files and sends it to end of the thread_url
 	        StoringLinksIntoList(links);
 	        
-	        System.out.println("\nLinks: " + links.size());
+	        System.out.println("\nLinks from " + url + ": " + links.size());
 	        PrintLinks(links);
 	
 	    } catch (IOException e) {
@@ -98,8 +108,14 @@ public class CrawlerThreads implements Runnable {
 					duplicateLinks.put(link.attr("abs:href"),link.attr("abs:href"));
 					thread_url.push(link.attr("abs:href"));
 				}
-				else { /*Move onto next link*./ 
-			else { /*Move onto next link*/ }
+				else { 
+					/*Move onto next link*/ 
+					System.out.println("DUPLICATE LINK: " + link.attr("abs:href"));
+				}
+			}
+			else { 
+				/*Move onto next link*/
+				System.out.println("ERROR: NOT PROPER HTTP/HTTPS PROTOCOL");
 			}
 		}
 	}
@@ -114,6 +130,7 @@ public class CrawlerThreads implements Runnable {
 	    for (Element link: content) {
 	        System.out.println("Links within base link: " + link.attr("abs:href"));
 	    }
+	    System.out.println("\n");
 	}
 	
 	/*  ==========================================================================
@@ -124,8 +141,7 @@ public class CrawlerThreads implements Runnable {
 	    @return     NONE        
 	    ========================================================================== */
 	private static void SaveContentIntoFile(String htmlContent, String fileToStore) {
-	    System.out.println("Storing into file...\n");
-	    System.out.println(htmlContent);
+	    System.out.println("Storing into file: " + fileToStore + "...\n");
 	    try {
 	        PrintWriter writer = new PrintWriter("WebCrawlerContents/" + fileToStore, "UTF-8");
 	        writer.println(htmlContent);

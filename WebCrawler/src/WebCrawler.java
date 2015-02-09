@@ -46,7 +46,7 @@ public class WebCrawler {
             return s;
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {    	
     	CrawlerMultiThreads crawler;
     	
     	//Creates a new directory called WebCrawlerContents

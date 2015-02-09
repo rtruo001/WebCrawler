@@ -23,6 +23,9 @@ public class CrawlerMultiThreads {
 	private int pages;
 	private int levels;
 	private int threadCount;
+	
+	Integer count;
+	HashMap <String,String> duplicateLinks;
 
 	//PUBLIC VARIABLES
 	public LinkedList<String> urls;
@@ -76,8 +79,10 @@ public class CrawlerMultiThreads {
 	}
 	
 	public void WebCrawl() {
+		count = new Integer(0);
+		duplicateLinks = new HashMap<String,String>();
 		while (urls.size() != 0 && threadCount <= THREADMAX) {
-	        (new Thread(new CrawlerThreads(urls))).start();
+	        (new Thread(new CrawlerThreads(urls, duplicateLinks, count))).start();
 		}
     }
 }
